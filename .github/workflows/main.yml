@@ -1,18 +1,47 @@
-name: Pokemon TCG Drops Test
+name: Pokemon TCG Drops Monitor
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pokemon-tcg-monitor
+  cancel-in-progress: false
 
 jobs:
-  test:
+  monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
+
     steps:
-      - name: Send Discord test
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install monitor packages
+        run: pip install httpx beautifulsoup4
+
+      - name: Check Pokemon TCG retailers
         env:
-          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: python monitor.py
+
+      - name: Save product state
         run: |
-          curl --fail-with-body \
-            -H "Content-Type: application/json" \
-            -H "User-Agent: PokemonTCGDrops/1.0" \
-            -d '{"content":"✅ Pokémon TCG monitor connected!"}' \
-            "$WEBHOOK"
+          git config user.name "pokemon-tcg-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Pokemon TCG monitor state"
+            git pull --rebase
+            git push
+          fi
