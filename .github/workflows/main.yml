@@ -1,0 +1,30 @@
+name: Pokemon TCG Drops Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Discord test
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import os, json, urllib.request
+
+          url = os.environ["WEBHOOK"]
+          data = json.dumps({
+              "content": "✅ Pokémon TCG monitor connected!"
+          }).encode()
+
+          request = urllib.request.Request(
+              url,
+              data=data,
+              headers={"Content-Type": "application/json"}
+          )
+
+          urllib.request.urlopen(request)
+          PY
