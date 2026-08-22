@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-08-22T11:43:49.299780+00:00",
+  "last_run": "2026-08-22T13:21:53.015915+00:00",
   "products": {
     "https://www.academy.com/p/pok-mon-lumiose-city-mini-tin": {
-      "last_checked": "2026-08-22T04:57:17.001947+00:00",
-      "price": null,
+      "last_checked": "2026-08-22T13:21:29.353929+00:00",
+      "price": "$12.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -13,7 +13,7 @@
       "title": "Pokémon Lumiose City Mini Tin"
     },
     "https://www.academy.com/p/pok-mon-mega-evolution-5-pitch-black-booster-bundle": {
-      "last_checked": "2026-08-22T05:58:18.160617+00:00",
+      "last_checked": "2026-08-22T13:21:31.057325+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
@@ -63,8 +63,8 @@
       "title": "Pokémon Mega Evolutions 2: Phantasmal Flames Elite Trainer"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-25-ascended-heroes-first-partners-deluxe-pin-collection": {
-      "last_checked": "2026-08-22T04:57:18.335762+00:00",
-      "price": "$29.99",
+      "last_checked": "2026-08-22T13:21:30.445181+00:00",
+      "price": null,
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -163,7 +163,7 @@
       "title": "Pokémon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Tech Sticker Collection"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-3-perfect-order-booster-display-pack": {
-      "last_checked": "2026-08-22T05:58:17.342014+00:00",
+      "last_checked": "2026-08-22T13:21:30.667871+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -293,7 +293,7 @@
       "title": "Pokemon Mega Evolutions 4: Chaos Rising Elite Trainer Box"
     },
     "https://www.academy.com/p/pokemon-paradox-destinies-tin": {
-      "last_checked": "2026-08-22T04:57:18.032859+00:00",
+      "last_checked": "2026-08-22T13:21:30.268354+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
@@ -743,10 +743,10 @@
       "title": "See options"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Ascended-Heroes-Booster/dp/B0G3CV6Z9D/ref=sr_1_5_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&dib_tag=se&keywords=pokemon+tcg&qid=1787283088&sr=8-5": {
-      "last_checked": "2026-08-21T14:07:20.447369+00:00",
-      "price": null,
+      "last_checked": "2026-08-22T13:21:34.119104+00:00",
+      "price": "$34.95",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -963,10 +963,10 @@
       "title": "$42.43 $ 42 . 43 List: $59.99 List: $59.99 $59.99"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Chaos-Rising-Booster/dp/B0GR6Q72ND/ref=sr_1_6?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&dib_tag=se&keywords=pokemon+tcg&qid=1787283088&sr=8-6": {
-      "last_checked": "2026-08-21T14:07:22.522984+00:00",
-      "price": "$43.92",
+      "last_checked": "2026-08-22T13:21:34.669590+00:00",
+      "price": null,
       "seller": null,
-      "status": "in_stock",
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -1103,7 +1103,7 @@
       "title": "$39.99 $ 39 . 99"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Booster-Bundle/dp/B0GYTRYV7P/ref=sr_1_1?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzWkX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl3Uyt2C3flsM5k16QW74jZzrLqDpshH4VuTE06XK3qvOY5wIYK5wx4cbwnN061V-0pxt2V3pkTMyvKoNFMXVBPgQ0KyHpeBSVKoXSp8KluVA5aVwHd6RyVYmxMBvNbIVZR-S9k7UPkTm1w-Y91gjO0s.BdyPPqEeuIWOTKjRvdjNdb7UTCjAVh2B-k8NDMv5pRw&dib_tag=se&keywords=pokemon+tcg&qid=1787327637&sr=8-1": {
-      "last_checked": "2026-08-21T15:53:58.981584+00:00",
+      "last_checked": "2026-08-22T13:21:34.728868+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -2193,7 +2193,7 @@
       "title": "(42 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0G3CV6Z9D/ref=sr_1_5_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&qid=1787283088&sr=8-5": {
-      "last_checked": "2026-08-21T14:07:20.650612+00:00",
+      "last_checked": "2026-08-22T13:21:34.644257+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -2363,7 +2363,7 @@
       "title": "(80 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0GR6Q72ND/ref=sr_1_6_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&qid=1787283088&sr=8-6": {
-      "last_checked": "2026-08-21T14:07:22.759451+00:00",
+      "last_checked": "2026-08-22T13:21:34.708379+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -2683,17 +2683,17 @@
       "title": "Presstine"
     },
     "https://www.walmart.com/ip/POKEMON-FIRST-PARTNER-BOOSTER-COLLECTION/19952559023?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-22T09:55:20.558908+00:00",
-      "price": "$0.00",
+      "last_checked": "2026-08-22T13:21:27.678852+00:00",
+      "price": null,
       "seller": null,
-      "status": "in_stock",
+      "status": "unknown",
       "store": "Walmart",
       "store_key": "walmart",
       "third_party": false,
       "title": "Pokemon Trading Card Games First Partner Illustration Collection Series 2 - Walmart.com"
     },
     "https://www.walmart.com/ip/Pokemon-Scarlet-Violet-Paradox-Fury-Premium-Collection-Box-Holiday-Edition-7-Booster-Packs-3-Foil-Cards-Oversized-Card-More/12967670199?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-22T09:55:20.121914+00:00",
+      "last_checked": "2026-08-22T13:21:27.316172+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -2703,7 +2703,7 @@
       "title": "Pokemon Scarlet & Violet Paradox Fury Premium Collection Box (Holiday Edition, 7 Booster Packs, 3 Foil Cards, Oversized Card & More) $84.99 $84.99/g"
     },
     "https://www.walmart.com/ip/Pokemon-Scarlet-Violet-Prismatic-Evolutions-Super-Premium-Collection-Box-Case-Of-4/18239611443?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-22T09:55:20.417136+00:00",
+      "last_checked": "2026-08-22T13:21:27.501094+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -2713,7 +2713,7 @@
       "title": "Pokemon Scarlet & Violet: Prismatic Evolutions Super Premium Collection Box Case Of 4 $1,449.99"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-30th-Anniversary-Booster-Bundle-Box/20717271194?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-22T09:55:20.861575+00:00",
+      "last_checked": "2026-08-22T13:21:27.944466+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -2753,10 +2753,10 @@
       "title": "Pokemon TCG Mega Evolution Chaos Rising Elite Trainer Box Booster Packs Accessories Set $79.95"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Elite-Trainer-Box/19988614228?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-22T09:55:19.870476+00:00",
-      "price": "$0.00",
+      "last_checked": "2026-08-22T13:21:27.077148+00:00",
+      "price": null,
       "seller": null,
-      "status": "in_stock",
+      "status": "unknown",
       "store": "Walmart",
       "store_key": "walmart",
       "third_party": false,
