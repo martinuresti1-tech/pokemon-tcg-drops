@@ -1,9 +1,9 @@
 {
   "initialized": true,
-  "last_run": "2026-08-23T03:32:56.754926+00:00",
+  "last_run": "2026-08-23T05:06:06.914785+00:00",
   "products": {
     "https://www.academy.com/p/pok-mon-lumiose-city-mini-tin": {
-      "last_checked": "2026-08-22T19:02:06.044751+00:00",
+      "last_checked": "2026-08-23T05:05:09.375548+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -63,8 +63,8 @@
       "title": "Pokémon Mega Evolutions 2: Phantasmal Flames Elite Trainer"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-25-ascended-heroes-first-partners-deluxe-pin-collection": {
-      "last_checked": "2026-08-22T19:49:11.832178+00:00",
-      "price": "$29.99",
+      "last_checked": "2026-08-23T05:05:10.377757+00:00",
+      "price": null,
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -163,8 +163,8 @@
       "title": "Pokémon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Tech Sticker Collection"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-3-perfect-order-booster-display-pack": {
-      "last_checked": "2026-08-22T19:49:12.287843+00:00",
-      "price": null,
+      "last_checked": "2026-08-23T05:05:11.433692+00:00",
+      "price": "$6.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -243,8 +243,8 @@
       "title": "Pokémon Trading Card Game Scarlet & Violet 9 – Journey Together 3 Booster Blister"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-9---journey-together-booster-bundle": {
-      "last_checked": "2026-08-22T19:02:05.461969+00:00",
-      "price": "$32.99",
+      "last_checked": "2026-08-23T05:05:08.918416+00:00",
+      "price": null,
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -293,8 +293,8 @@
       "title": "Pokemon Mega Evolutions 4: Chaos Rising Elite Trainer Box"
     },
     "https://www.academy.com/p/pokemon-paradox-destinies-tin": {
-      "last_checked": "2026-08-22T19:02:06.540664+00:00",
-      "price": "$32.99",
+      "last_checked": "2026-08-23T05:05:09.924894+00:00",
+      "price": null,
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -384,6 +384,16 @@
     },
     "https://www.amazon.com/Kayou-Little-Trading-Discord-Packs/dp/B0H9KBV8QF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRKkUL_uqiJt56800-y0OryUuMvktVuW_h4vPCYMxtxpBwp5pHfu_vZmvkdszV5bpe0uJIrF16CdHo50eIXhWn_6igYMoesbzzsSlmoTNoFMRU3vsLNxR0kw6cFhB9n464ljvOtB42R1PCKSHcTLdtXtBOu86DqS7zeVYKr6XnlMPlwj05HsVdwxtuj443X_eIwi1K9xINs8mTDdkgZ-fIEjnqpvBNghuuGHcZUZoNLJg.V-KcoAncUpejSW-Mfj4Xmh0nCQGyXoFIFVHp-WpLCt4&dib_tag=se&keywords=pokemon+tcg&qid=1787425326&sr=8-3": {
       "last_checked": "2026-08-22T19:02:10.028508+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "My Little Pony Trading Card Game, Discord, TCG, 20 Packs, 5 Cards/Pack, for Age 10+"
+    },
+    "https://www.amazon.com/Kayou-Little-Trading-Discord-Packs/dp/B0H9KBV8QF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-3": {
+      "last_checked": "2026-08-23T05:05:15.837465+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -642,6 +652,16 @@
       "third_party": false,
       "title": "(488)"
     },
+    "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Ascended-Heroes-Booster/dp/B0G3CV6Z9D/ref=sr_1_4?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-4": {
+      "last_checked": "2026-08-23T05:05:17.473647+00:00",
+      "price": "$48.94",
+      "seller": null,
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(492)"
+    },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Ascended-Heroes-Booster/dp/B0G3CV6Z9D/ref=sr_1_4?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&dib_tag=se&keywords=pokemon+tcg&qid=1787434960&sr=8-4": {
       "last_checked": "2026-08-22T21:42:44.760306+00:00",
       "price": null,
@@ -705,6 +725,16 @@
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Ascended-Heroes-Booster/dp/B0G3CV6Z9D/ref=sr_1_4_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7PqvEBtCpo2Nv2tqItWbcRfBViVdBRTqPDgsZUi_B_6y_HpIS-MmTYOoQdNjr73Ai4aD7BCjbaAGhYNE_BiXi9fqxCKO5kSPa3zhWeFpnMDpEwRgJyryKn6kmGVSCZiayzxgec4hHwcnxdPaFn8KFbMiQjKHaEJtGJabXGg6GfS7VNTV7FK0Ec3QvbpiaJ2AlOtxqWEoQWK1qZesbBZTZ6kGlBLzKFdcvsSq77zqgaXXlP1BChPt3qxj2_O-OgQdoOVfJr4vYjU60uFhkVnnkbE.RhD-Q7WZm5Q6CLpZ4aw3z5ysN5Zr38_wHu4E9RB7mPE&dib_tag=se&keywords=pokemon+tcg&qid=1787289454&sr=8-4": {
       "last_checked": "2026-08-22T20:50:38.857753+00:00",
       "price": "$92.36",
+      "seller": null,
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "See options"
+    },
+    "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Ascended-Heroes-Booster/dp/B0G3CV6Z9D/ref=sr_1_4_so_COLLECTIBLE_CARD?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-4": {
+      "last_checked": "2026-08-23T05:05:20.279721+00:00",
+      "price": "$48.94",
       "seller": null,
       "status": "in_stock",
       "store": "Amazon",
@@ -972,6 +1002,16 @@
       "third_party": false,
       "title": "$43.23 $ 43 . 23 List: $59.99 List: $59.99 $59.99"
     },
+    "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Chaos-Rising-Booster/dp/B0GR6Q72ND/ref=sr_1_2?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-2": {
+      "last_checked": "2026-08-23T05:05:14.956266+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "$45.99 $ 45 . 99 List: $59.99 List: $59.99 $59.99"
+    },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Chaos-Rising-Booster/dp/B0GR6Q72ND/ref=sr_1_2?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&dib_tag=se&keywords=pokemon+tcg&qid=1787434960&sr=8-2": {
       "last_checked": "2026-08-22T21:42:43.546539+00:00",
       "price": null,
@@ -1113,8 +1153,8 @@
       "title": "$42.43 $ 42 . 43 List: $59.99 List: $59.99 $59.99"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Chaos-Rising-Booster/dp/B0GR6Q72ND/ref=sr_1_4?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pepdar6zd7Y9eANc0rram6f7OUm6H8ZlNzO5a230obYpYr6NokUE6ncIwSAcNWcB9thHNduUiM9drZPujEu8iieZPvibAxZiEwHrcyov1w4BM1WF0emg7HqakliqQcX0QVKHV7STqNTWxyIVqQnReJqW0zfSdkZCtxaXxKbfQikvyLgrYC2-Tz_DKEG_ApBxNLQBpmKNRd4rrUaroqTrldE9xaib5FBPIhnnkBClIwqAfb4O3UD_mk_CK8Zt8tg724.dfgr433cDpIqym42rgFSmQlkoHlTSKxgB01VlaNI-lY&dib_tag=se&keywords=pokemon+tcg&qid=1787345658&sr=8-4": {
-      "last_checked": "2026-08-21T20:54:30.903458+00:00",
-      "price": "$43.80",
+      "last_checked": "2026-08-23T05:05:38.599411+00:00",
+      "price": "$45.99",
       "seller": null,
       "status": "preorder",
       "store": "Amazon",
@@ -1370,6 +1410,16 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
+      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+    },
+    "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-1": {
+      "last_checked": "2026-08-23T05:05:13.499779+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
       "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&dib_tag=se&keywords=pokemon+tcg&qid=1787434960&sr=8-1": {
@@ -1762,6 +1812,16 @@
       "third_party": false,
       "title": "$37.28 $ 37 . 28 List: $59.99 List: $59.99 $59.99"
     },
+    "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0GW2DK37Q/ref=sr_1_7?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-7": {
+      "last_checked": "2026-08-23T05:05:35.361013+00:00",
+      "price": "$37.30",
+      "seller": null,
+      "status": "preorder",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "$37.30 $ 37 . 30 List: $59.99 List: $59.99 $59.99"
+    },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0GW2DK37Q/ref=sr_1_7?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pdc0sBdChQwiUc9NtvOP9EeDO3Zrtn3Nj1ORYPLdoMauJMlMC6LPOD96klWzfye-vPmflufMfU51yIVS845ic186shuG7W_-jWmOsfaVC6ig4SIxBncA9mEBJ10PiteggK4eOzIgryfLSEuARdvljAuW0zfSdkZCtxaXxKbfQikv-drxRWU1sW8cbhIKe6NvduSeYgeszLvh_f-1J-gn6wVBr69SL1zdbI-VSTV9EqZKHCIdamHw2EwAbLMVWT8QhQ.JZQJs0PLUXKghC8DRVwm4ERpMW5dwTlkLv5eZ1gIr3w&dib_tag=se&keywords=pokemon+tcg&qid=1787398977&sr=8-7": {
       "last_checked": "2026-08-22T11:43:19.384186+00:00",
       "price": "$37.28",
@@ -1803,8 +1863,8 @@
       "title": "$36.99 $ 36 . 99"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0H2JVZYZZ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pepdar6zd7Y9eANc0rram6f7OUm6H8ZlNzO5a230obYpYr6NokUE6ncIwSAcNWcB9thHNduUiM9drZPujEu8iieZPvibAxZiEwHrcyov1w4BM1WF0emg7HqakliqQcX0QVKHV7STqNTWxyIVqQnReJqW0zfSdkZCtxaXxKbfQikvyLgrYC2-Tz_DKEG_ApBxNLQBpmKNRd4rrUaroqTrldE9xaib5FBPIhnnkBClIwqAfb4O3UD_mk_CK8Zt8tg724.dfgr433cDpIqym42rgFSmQlkoHlTSKxgB01VlaNI-lY&dib_tag=se&keywords=pokemon+tcg&qid=1787345658&sr=8-5": {
-      "last_checked": "2026-08-21T20:54:36.065684+00:00",
-      "price": "$39.45",
+      "last_checked": "2026-08-23T05:05:43.817289+00:00",
+      "price": "$21.88",
       "seller": null,
       "status": "in_stock",
       "store": "Amazon",
@@ -1982,6 +2042,16 @@
       "third_party": false,
       "title": "$29.95 $ 29 . 95"
     },
+    "https://www.amazon.com/Pokemon-TCG-Poke-Ball-Tins/dp/B0FQP3YQ47/ref=sr_1_6?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-6": {
+      "last_checked": "2026-08-23T05:05:31.670437+00:00",
+      "price": "$29.95",
+      "seller": null,
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "$29.95 $ 29 . 95"
+    },
     "https://www.amazon.com/Pokemon-TCG-Poke-Ball-Tins/dp/B0FQP3YQ47/ref=sr_1_7?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzWkX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl3Uyt2C3flsM5k16QW74jZzrLqDpshH4VuTE06XK3qvOY5wIYK5wx4cbwnN061V-0pxt2V3pkTMyvKoNFMXVBPgQ0KyHpeBSVKoXSp8KluVA5aVwHd6RyVYmxMBvNbIVZR-S9k7UPkTm1w-Y91gjO0s.BdyPPqEeuIWOTKjRvdjNdb7UTCjAVh2B-k8NDMv5pRw&dib_tag=se&keywords=pokemon+tcg&qid=1787327637&sr=8-7": {
       "last_checked": "2026-08-22T14:54:37.040044+00:00",
       "price": "$29.95",
@@ -2153,8 +2223,8 @@
       "title": "$477.50 $ 477 . 50"
     },
     "https://www.amazon.com/Pokemon-TCG-Scarlet-Destined-Booster/dp/B0F2GZJ3TZ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pepdar6zd7Y9eANc0rram6f7OUm6H8ZlNzO5a230obYpYr6NokUE6ncIwSAcNWcB9thHNduUiM9drZPujEu8iieZPvibAxZiEwHrcyov1w4BM1WF0emg7HqakliqQcX0QVKHV7STqNTWxyIVqQnReJqW0zfSdkZCtxaXxKbfQikvyLgrYC2-Tz_DKEG_ApBxNLQBpmKNRd4rrUaroqTrldE9xaib5FBPIhnnkBClIwqAfb4O3UD_mk_CK8Zt8tg724.dfgr433cDpIqym42rgFSmQlkoHlTSKxgB01VlaNI-lY&dib_tag=se&keywords=pokemon+tcg&qid=1787345658&sr=8-6": {
-      "last_checked": "2026-08-21T20:54:40.875418+00:00",
-      "price": "$477.05",
+      "last_checked": "2026-08-23T05:05:48.596109+00:00",
+      "price": "$473.53",
       "seller": "revend",
       "status": "in_stock",
       "store": "Amazon",
@@ -2432,6 +2502,16 @@
       "third_party": true,
       "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
     },
+    "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-5": {
+      "last_checked": "2026-08-23T05:05:26.431886+00:00",
+      "price": "$290.17",
+      "seller": "nobersell",
+      "status": "out_of_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+    },
     "https://www.amazon.com/gp/offer-listing/B0DYR8D7YC/ref=sr_1_1_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pdc0sBdChQwiUc9NtvOP9EeDO3Zrtn3Nj1ORYPLdoMauJMlMC6LPOD96klWzfye-vPmflufMfU51yIVS845ic186shuG7W_-jWmOsfaVC6ig4SIxBncA9mEBJ10PiteggK4eOzIgryfLSEuARdvljAuW0zfSdkZCtxaXxKbfQikv-drxRWU1sW8cbhIKe6NvduSeYgeszLvh_f-1J-gn6wVBr69SL1zdbI-VSTV9EqZKHCIdamHw2EwAbLMVWT8QhQ.JZQJs0PLUXKghC8DRVwm4ERpMW5dwTlkLv5eZ1gIr3w&qid=1787398977&sr=8-1": {
       "last_checked": "2026-08-22T11:42:59.661568+00:00",
       "price": null,
@@ -2582,6 +2662,16 @@
       "third_party": true,
       "title": "(53 new offers)"
     },
+    "https://www.amazon.com/gp/offer-listing/B0DYR8D7YC/ref=sr_1_5_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&qid=1787461511&sr=8-5": {
+      "last_checked": "2026-08-23T05:05:29.153394+00:00",
+      "price": "$290.17",
+      "seller": "nobersell",
+      "status": "out_of_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "(49 new offers)"
+    },
     "https://www.amazon.com/gp/offer-listing/B0F2BDXW4J/ref=sr_1_5_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7PqvEBtCpo2Nv2tqItWbcRfBViVdBRTqPDgsZUi_B_6y_HpIS-MmTYOoQdNjr73Ai4aD7BCjbaAGhYNE_BiXi9dNQ3pmIg2IPye2elKoRM-x4fQLCnb9UIXF6W7MrmAcejxgec4hHwcnxdPaFn8KFbNsfLAd_XaaeJNES9c-eNkKg3QBl5EFN-m5YapJ624R3I90qK8kOHBNTiPrnb97RoMG5GyyJSV43HKn9A9PUZkABt2sSLo3MVjgH7_-UTeziYGIV5KhWXDIUpZ_RJkrDNo.JVMeEvkJWxTihAqRP9OjyLr2MvRLCyZ2aPQuY2Epakg&qid=1787309893&sr=8-5": {
       "last_checked": "2026-08-22T05:59:01.482152+00:00",
       "price": "$114.44",
@@ -2731,6 +2821,16 @@
       "store_key": "amazon",
       "third_party": false,
       "title": "(45 new offers)"
+    },
+    "https://www.amazon.com/gp/offer-listing/B0G3CV6Z9D/ref=sr_1_4_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&qid=1787461511&sr=8-4": {
+      "last_checked": "2026-08-23T05:05:23.395603+00:00",
+      "price": "$48.94",
+      "seller": null,
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(42 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0G3CV6Z9D/ref=sr_1_4_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&qid=1787434960&sr=8-4": {
       "last_checked": "2026-08-22T21:42:45.550304+00:00",
@@ -2912,6 +3012,16 @@
       "third_party": false,
       "title": "(79 used & new offers)"
     },
+    "https://www.amazon.com/gp/offer-listing/B0GR6Q72ND/ref=sr_1_2_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&qid=1787461511&sr=8-2": {
+      "last_checked": "2026-08-23T05:05:15.470892+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(75 used & new offers)"
+    },
     "https://www.amazon.com/gp/offer-listing/B0GR6Q72ND/ref=sr_1_2_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&qid=1787434960&sr=8-2": {
       "last_checked": "2026-08-22T21:42:43.991788+00:00",
       "price": null,
@@ -3023,8 +3133,8 @@
       "title": "(79 used & new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0GR6Q72ND/ref=sr_1_4_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pepdar6zd7Y9eANc0rram6f7OUm6H8ZlNzO5a230obYpYr6NokUE6ncIwSAcNWcB9thHNduUiM9drZPujEu8iieZPvibAxZiEwHrcyov1w4BM1WF0emg7HqakliqQcX0QVKHV7STqNTWxyIVqQnReJqW0zfSdkZCtxaXxKbfQikvyLgrYC2-Tz_DKEG_ApBxNLQBpmKNRd4rrUaroqTrldE9xaib5FBPIhnnkBClIwqAfb4O3UD_mk_CK8Zt8tg724.dfgr433cDpIqym42rgFSmQlkoHlTSKxgB01VlaNI-lY&qid=1787345658&sr=8-4": {
-      "last_checked": "2026-08-21T20:54:33.423875+00:00",
-      "price": "$43.80",
+      "last_checked": "2026-08-23T05:05:41.491292+00:00",
+      "price": "$45.99",
       "seller": null,
       "status": "preorder",
       "store": "Amazon",
@@ -3332,6 +3442,16 @@
       "third_party": false,
       "title": "(69 new offers)"
     },
+    "https://www.amazon.com/gp/offer-listing/B0GYVHLP4L/ref=sr_1_1_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&qid=1787461511&sr=8-1": {
+      "last_checked": "2026-08-23T05:05:14.577899+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(70 new offers)"
+    },
     "https://www.amazon.com/gp/offer-listing/B0GYVHLP4L/ref=sr_1_1_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&qid=1787434960&sr=8-1": {
       "last_checked": "2026-08-22T21:42:43.230614+00:00",
       "price": null,
@@ -3353,8 +3473,8 @@
       "title": "(41 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0H2JVZYZZ/ref=sr_1_5_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pepdar6zd7Y9eANc0rram6f7OUm6H8ZlNzO5a230obYpYr6NokUE6ncIwSAcNWcB9thHNduUiM9drZPujEu8iieZPvibAxZiEwHrcyov1w4BM1WF0emg7HqakliqQcX0QVKHV7STqNTWxyIVqQnReJqW0zfSdkZCtxaXxKbfQikvyLgrYC2-Tz_DKEG_ApBxNLQBpmKNRd4rrUaroqTrldE9xaib5FBPIhnnkBClIwqAfb4O3UD_mk_CK8Zt8tg724.dfgr433cDpIqym42rgFSmQlkoHlTSKxgB01VlaNI-lY&qid=1787345658&sr=8-5": {
-      "last_checked": "2026-08-21T20:54:38.547642+00:00",
-      "price": "$39.45",
+      "last_checked": "2026-08-23T05:05:46.020759+00:00",
+      "price": "$21.88",
       "seller": null,
       "status": "in_stock",
       "store": "Amazon",
@@ -3453,7 +3573,7 @@
       "title": "(9 new offers)"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/arcane-tinmen/5967908_9807313_4252400/YnJhbmQ6QXJjYW5lIFRpbm1lbgieie": {
-      "last_checked": "2026-08-22T19:49:09.198946+00:00",
+      "last_checked": "2026-08-23T05:05:06.027809+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -3493,7 +3613,7 @@
       "title": "Pokemon SS10 Sword and Shield Astral Radiance Booster Pack |"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/pokemon-tcg-chinese/5967908_9807313_4252400/YnJhbmQ6UG9rZW1vbiiBUQ0cgQ2hpbmVzZQieie": {
-      "last_checked": "2026-08-22T19:49:09.471274+00:00",
+      "last_checked": "2026-08-23T05:05:06.241388+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -3503,7 +3623,7 @@
       "title": "Pokemon TCG Chinese"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/presstine-marketing/5967908_9807313_4252400/YnJhbmQ6UHJlc3N0aW5lIE1hcmtldGluZwieie": {
-      "last_checked": "2026-08-22T20:50:30.303343+00:00",
+      "last_checked": "2026-08-23T05:05:06.739429+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -3513,7 +3633,7 @@
       "title": "Presstine Marketing"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/presstine/5967908_9807313_4252400/YnJhbmQ6UHJlc3N0aW5l": {
-      "last_checked": "2026-08-22T20:50:30.044891+00:00",
+      "last_checked": "2026-08-23T05:05:06.474150+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -3633,7 +3753,7 @@
       "title": "Pokemon TCG 30th Anniversary Booster Bundle Box"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-30th-Celebration-Booster-Bundle/20638470762?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-22T20:50:30.715653+00:00",
+      "last_checked": "2026-08-23T05:05:06.935496+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
