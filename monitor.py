@@ -107,7 +107,7 @@ STORES = [
     },
     {
         "key": "pokemon_center",
-        "name": "Pokémon Center",
+        "name": "PokÃ©mon Center",
         "domains": ["pokemoncenter.com"],
         "search_urls": [
             "https://www.pokemoncenter.com/category/trading-card-game",
@@ -167,7 +167,7 @@ PRIORITY_WATCHLIST = [
 PRODUCT_WORDS = (
     "booster", "elite trainer", " etb", "ultra-premium", "ultra premium",
     "collection", "tin", "blister", "display", "trainer box",
-    "premium collection", "pokemon tcg", "pokémon tcg", "trading card game",
+    "premium collection", "pokemon tcg", "pokÃ©mon tcg", "trading card game",
 )
 EXCLUDE_WORDS = (
     "single card", "graded", "psa ", "cgc ", "binder sleeve", "portfolio",
@@ -207,8 +207,8 @@ RETAILER_DOMAIN_MAP = {
     "www.gamestop.com": "GameStop",
     "barnesandnoble.com": "Barnes & Noble",
     "www.barnesandnoble.com": "Barnes & Noble",
-    "pokemoncenter.com": "Pokémon Center",
-    "www.pokemoncenter.com": "Pokémon Center",
+    "pokemoncenter.com": "PokÃ©mon Center",
+    "www.pokemoncenter.com": "PokÃ©mon Center",
 }
 
 
@@ -297,7 +297,7 @@ def normalize_candidate_url(store, url):
 
 def looks_like_product(title, url):
     hay = f"{title} {url}".lower()
-    if "pokemon" not in hay and "pokémon" not in hay:
+    if "pokemon" not in hay and "pokÃ©mon" not in hay:
         return False
     if any(word in hay for word in EXCLUDE_WORDS):
         return False
@@ -307,7 +307,7 @@ def looks_like_product(title, url):
 def infer_title_from_url(url):
     part = urlparse(url).path.rstrip("/").split("/")[-1]
     part = re.sub(r"[-_]+", " ", part)
-    return part[:220].strip().title() or "Pokémon TCG product"
+    return part[:220].strip().title() or "PokÃ©mon TCG product"
 
 
 def infer_status(text):
@@ -337,7 +337,7 @@ def parse_price(price_text):
 
 def estimate_msrp(title):
     t = title.lower()
-    if "pokemon center elite trainer box" in t or "pokémon center elite trainer box" in t:
+    if "pokemon center elite trainer box" in t or "pokÃ©mon center elite trainer box" in t:
         return 59.99
     if "elite trainer box" in t or re.search(r"\betb\b", t):
         return 49.99
@@ -362,15 +362,15 @@ def msrp_comparison(price_text, title):
     price = parse_price(price_text)
     msrp = estimate_msrp(title)
     if msrp is None:
-        return None, "⚪ MSRP UNKNOWN"
+        return None, "âª MSRP UNKNOWN"
     if price is None:
-        return msrp, "⚪ PRICE NOT DETECTED"
+        return msrp, "âª PRICE NOT DETECTED"
     diff = round(price - msrp, 2)
     if abs(diff) < 0.01:
-        return msrp, "🟡 AT MSRP"
+        return msrp, "ð¡ AT MSRP"
     if diff < 0:
-        return msrp, f"🟢 ${abs(diff):.2f} BELOW MSRP"
-    return msrp, f"🔴 ${diff:.2f} ABOVE MSRP"
+        return msrp, f"ð¢ ${abs(diff):.2f} BELOW MSRP"
+    return msrp, f"ð´ ${diff:.2f} ABOVE MSRP"
 
 
 def jsonld_products(html):
@@ -460,7 +460,7 @@ def send_discord(title, lines, url=None, color=3447003):
         "description": "\n".join(lines)[:4000],
         "color": color,
         "timestamp": utcnow(),
-        "footer": {"text": "Pokémon TCG Drop Monitor"},
+        "footer": {"text": "PokÃ©mon TCG Drop Monitor"},
     }
     if url:
         embed["url"] = url
@@ -560,10 +560,10 @@ def inspect_product(client, store, url, fallback_title):
 
 def status_label(status):
     return {
-        "in_stock": "🟢 IN STOCK",
-        "preorder": "🟣 PREORDER",
-        "out_of_stock": "🔴 OUT OF STOCK",
-        "unknown": "🔵 NEW LISTING",
+        "in_stock": "ð¢ IN STOCK",
+        "preorder": "ð£ PREORDER",
+        "out_of_stock": "ð´ OUT OF STOCK",
+        "unknown": "ðµ NEW LISTING",
     }.get(status, status.upper())
 
 
@@ -578,25 +578,25 @@ def quick_links(retailer, product_url):
                 "https://www.amazon.com/gp/aws/cart/add.html"
                 f"?ASIN.1={asin}&Quantity.1=1"
             )
-            links.append(("🛒 Amazon quick cart", quick_cart))
-            links.append(("🔗 Amazon product", clean))
+            links.append(("ð Amazon quick cart", quick_cart))
+            links.append(("ð Amazon product", clean))
         else:
-            links.append(("🔗 Amazon product", product_url))
+            links.append(("ð Amazon product", product_url))
 
     elif retailer == "Target":
-        links.append(("🔗 Target product", product_url))
-        links.append(("🛒 Target cart", "https://www.target.com/cart"))
+        links.append(("ð Target product", product_url))
+        links.append(("ð Target cart", "https://www.target.com/cart"))
 
     elif retailer == "Walmart":
-        links.append(("🔗 Walmart product", product_url))
-        links.append(("🛒 Walmart cart", "https://www.walmart.com/cart"))
+        links.append(("ð Walmart product", product_url))
+        links.append(("ð Walmart cart", "https://www.walmart.com/cart"))
 
     elif retailer == "Best Buy":
-        links.append(("🔗 Best Buy product", product_url))
-        links.append(("🛒 Best Buy cart", "https://www.bestbuy.com/cart"))
+        links.append(("ð Best Buy product", product_url))
+        links.append(("ð Best Buy cart", "https://www.bestbuy.com/cart"))
 
     else:
-        links.append(("🔗 Product", product_url))
+        links.append(("ð Product", product_url))
 
     return links
 
@@ -606,9 +606,9 @@ def alert_for_item(kind, store, item, url, priority=False):
 
     lines = []
     if priority:
-        lines.append("**🔥 PRIORITY WATCHLIST HIT**")
+        lines.append("**ð¥ PRIORITY WATCHLIST HIT**")
     if "30th" in item["title"].lower():
-        lines.append("**🔥 30TH CELEBRATION**")
+        lines.append("**ð¥ 30TH CELEBRATION**")
 
     lines += [
         f"**{item['title']}**",
@@ -624,16 +624,16 @@ def alert_for_item(kind, store, item, url, priority=False):
         lines.append(f"{label}: {link}")
 
     if priority:
-        title = f"🚨 PRIORITY DROP — {store['name']}"
+        title = f"ð¨ PRIORITY DROP â {store['name']}"
         color = 15158332
     elif kind == "restock":
-        title = f"🚨 RESTOCK — {store['name']}"
+        title = f"ð¨ RESTOCK â {store['name']}"
         color = 15158332
     elif kind == "preorder":
-        title = f"🟣 PREORDER OPEN — {store['name']}"
+        title = f"ð£ PREORDER OPEN â {store['name']}"
         color = 10181046
     else:
-        title = f"🆕 NEW LISTING — {store['name']}"
+        title = f"ð NEW LISTING â {store['name']}"
         color = 3447003
 
     send_discord(title, lines, url=url, color=color)
@@ -703,7 +703,7 @@ def main():
 
     if MANUAL_RUN:
         send_discord(
-            "✅ Pokémon TCG monitor v2 started",
+            "â PokÃ©mon TCG monitor v2 started",
             [
                 "Priority exact-link watchlist is enabled.",
                 "Amazon links are U.S.-only and cleaned to direct /dp/ASIN URLs.",
@@ -747,7 +747,7 @@ def main():
 
             for url, old in known[:6]:
                 fresh = inspect_product(
-                    client, store, url, old.get("title", "Pokémon TCG product")
+                    client, store, url, old.get("title", "PokÃ©mon TCG product")
                 )
                 if fresh is None:
                     continue
