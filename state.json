@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_run": "2026-08-24T21:59:07.756968+00:00",
+  "last_run": "2026-08-24T22:59:22.986344+00:00",
   "products": {
     "https://www.academy.com/p/pok-mon-lumiose-city-mini-tin": {
       "last_checked": "2026-08-24T16:07:07.983912+00:00",
@@ -33,8 +33,8 @@
       "title": "Pokémon Mega Evolution 5 Pitch Black Display Pack"
     },
     "https://www.academy.com/p/pok-mon-mega-evolution-5-pitch-black-elite-trainer-box": {
-      "last_checked": "2026-08-24T11:49:02.271175+00:00",
-      "price": null,
+      "last_checked": "2026-08-24T22:59:02.904952+00:00",
+      "price": "$54.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -53,8 +53,8 @@
       "title": "Pokémon Mega Evolutions 2: Phantasmal Flames Booster Bundle"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-2--phantasmal-flames-elite-trainer": {
-      "last_checked": "2026-08-24T14:24:06.407336+00:00",
-      "price": null,
+      "last_checked": "2026-08-24T22:59:03.812562+00:00",
+      "price": "$49.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -73,8 +73,8 @@
       "title": "Pokémon Mega Evolutions 2.5 Ascended Heroes First Partners Deluxe Pin Collection"
     },
     "https://www.academy.com/p/pok-mon-sv10-destined-rival-booster-bundle?sku=multi": {
-      "last_checked": "2026-08-24T14:24:05.947859+00:00",
-      "price": null,
+      "last_checked": "2026-08-24T22:59:03.347740+00:00",
+      "price": "$32.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -113,7 +113,7 @@
       "title": "Pokémon Trading Card Game: Mega Evolutions 2.5 Ascended Heroes 2-Pack Blister"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-charizard-tin": {
-      "last_checked": "2026-08-24T11:49:01.700970+00:00",
+      "last_checked": "2026-08-24T22:59:02.385620+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -123,7 +123,7 @@
       "title": "Pokémon Trading Card Game Mega Charizard Tin"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-25-ascended-heroes-elite-trainer": {
-      "last_checked": "2026-08-24T11:49:01.218906+00:00",
+      "last_checked": "2026-08-24T22:59:01.765016+00:00",
       "price": "$54.99",
       "seller": null,
       "status": "unknown",
@@ -301,6 +301,16 @@
       "store_key": "academy",
       "third_party": false,
       "title": "Pokemon Paradox Destinies Tin"
+    },
+    "https://www.academy.com/p/pokemon-scarlet-and-violet-85-prismatic-evolutions-tech-sticker-collection": {
+      "last_checked": "2026-08-24T22:59:00.933062+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Academy Sports + Outdoors",
+      "store_key": "academy",
+      "third_party": false,
+      "title": "(1)"
     },
     "https://www.academy.com/p/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin?sku=multi": {
       "last_checked": "2026-08-24T21:00:05.126768+00:00",
@@ -3003,10 +3013,10 @@
       "title": "$37.30 $ 37 . 30 List: $59.99 List: $59.99 $59.99"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0GW2DK37Q/ref=sr_1_7?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pdc0sBdChQwiUc9NtvOP9EeDO3Zrtn3Nj1ORYPLdoMauJMlMC6LPOD96klWzfye-vPmflufMfU51yIVS845ic186shuG7W_-jWmOsfaVC6ig4SIxBncA9mEBJ10PiteggK4eOzIgryfLSEuARdvljAuW0zfSdkZCtxaXxKbfQikv-drxRWU1sW8cbhIKe6NvduSeYgeszLvh_f-1J-gn6wVBr69SL1zdbI-VSTV9EqZKHCIdamHw2EwAbLMVWT8QhQ.JZQJs0PLUXKghC8DRVwm4ERpMW5dwTlkLv5eZ1gIr3w&dib_tag=se&keywords=pokemon+tcg&qid=1787398977&sr=8-7": {
-      "last_checked": "2026-08-22T11:43:19.384186+00:00",
-      "price": "$37.28",
+      "last_checked": "2026-08-24T22:59:04.463272+00:00",
+      "price": null,
       "seller": null,
-      "status": "preorder",
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -3073,10 +3083,10 @@
       "title": "$39.20 $ 39 . 20"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0H2JVZYZZ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pdc0sBdChQwiUc9NtvOP9EeDO3Zrtn3Nj1ORYPLdoMauJMlMC6LPOD96klWzfye-vPmflufMfU51yIVS845ic186shuG7W_-jWmOsfaVC6ig4SIxBncA9mEBJ10PiteggK4eOzIgryfLSEuARdvljAuW0zfSdkZCtxaXxKbfQikv-drxRWU1sW8cbhIKe6NvduSeYgeszLvh_f-1J-gn6wVBr69SL1zdbI-VSTV9EqZKHCIdamHw2EwAbLMVWT8QhQ.JZQJs0PLUXKghC8DRVwm4ERpMW5dwTlkLv5eZ1gIr3w&dib_tag=se&keywords=pokemon+tcg&qid=1787398977&sr=8-6": {
-      "last_checked": "2026-08-22T11:43:14.212378+00:00",
-      "price": "$36.99",
+      "last_checked": "2026-08-24T22:59:04.174008+00:00",
+      "price": null,
       "seller": null,
-      "status": "in_stock",
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -3723,13 +3733,13 @@
       "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&dib_tag=se&keywords=pokemon+tcg&qid=1787283088&sr=8-2": {
-      "last_checked": "2026-08-22T11:43:22.223353+00:00",
-      "price": "$278.47",
-      "seller": "toysandmore",
-      "status": "out_of_stock",
+      "last_checked": "2026-08-24T22:59:04.553636+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
-      "third_party": true,
+      "third_party": false,
       "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRKkUL_uqiJt56800-y0OryS4AfmOcg_ZQ9GlxhmZ28x_IdK3PH3JpdDRyBRzqlwH5Wdiod7z04rDWTza6XhQPoWRo-dMM5Npuay-jVXrUCSU3WHD6a4TD-9d92606Igh61wCFADuJV9EwZCPS11DZXECDBKXUrbKpATGGc-a64wkBeklHG3wPUkEYXvPev7GwWxN6ldWSHMKBu00bNYkpqYYSyNbqILzZjgWVWp9gh5s.OG4tOC577XlEC7EQNXqjw8zAaZSf3iQ1EJwlAUty5ME&dib_tag=se&keywords=pokemon+tcg&qid=1787504162&sr=8-2": {
@@ -4173,13 +4183,13 @@
       "title": "(49 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0DYR8D7YC/ref=sr_1_2_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&qid=1787283088&sr=8-2": {
-      "last_checked": "2026-08-22T11:43:24.536118+00:00",
-      "price": "$278.47",
-      "seller": "toysandmore",
-      "status": "out_of_stock",
+      "last_checked": "2026-08-24T22:59:04.739541+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
-      "third_party": true,
+      "third_party": false,
       "title": "(53 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0DYR8D7YC/ref=sr_1_2_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7Lc-RtVyUKTiYZGHXrvEHM1c0sBdChQwiUc9NtvOP9EeOtKNJvHgn5ROKpc5rBB-_YfW59KfEfXK6YX2SqjKZjf4Qpf_6RXXEVa47Gy9tizHU2FlyqcUuJ0lpdTcFIRA3yJ7IDS5DeH65IawEF2wnYNJr6Tq4c0GiTKZ29_kO41UusDBqQgo4HkeZZF1kaHi5KdAr7Cr8lHvFKv2oA4MVLSZ0FyhfgXaVIZHL3cD1BI4ege2KtwKMh814PDeY7SrWnCIdamHw2EwAbLMVWT8QhQ.PF8ubrC__8DykVsKBGdKanh4ToZVf_g6ryOobj_mfqI&qid=1787455919&sr=8-2": {
@@ -5613,10 +5623,10 @@
       "title": "(36 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0H2JVZYZZ/ref=sr_1_6_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pdc0sBdChQwiUc9NtvOP9EeDO3Zrtn3Nj1ORYPLdoMauJMlMC6LPOD96klWzfye-vPmflufMfU51yIVS845ic186shuG7W_-jWmOsfaVC6ig4SIxBncA9mEBJ10PiteggK4eOzIgryfLSEuARdvljAuW0zfSdkZCtxaXxKbfQikv-drxRWU1sW8cbhIKe6NvduSeYgeszLvh_f-1J-gn6wVBr69SL1zdbI-VSTV9EqZKHCIdamHw2EwAbLMVWT8QhQ.JZQJs0PLUXKghC8DRVwm4ERpMW5dwTlkLv5eZ1gIr3w&qid=1787398977&sr=8-6": {
-      "last_checked": "2026-08-22T11:43:16.388886+00:00",
-      "price": "$36.99",
+      "last_checked": "2026-08-24T22:59:04.376409+00:00",
+      "price": null,
       "seller": null,
-      "status": "in_stock",
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -5943,7 +5953,7 @@
       "title": "Pokemon Trading Card Games First Partner Illustration Collection Series 2 - Walmart.com"
     },
     "https://www.walmart.com/ip/POKEMON-MAD-PARTY-PIN-COLLECTION-2021-1X-Random/549721812?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-24T14:24:03.926336+00:00",
+      "last_checked": "2026-08-24T22:58:56.370500+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -5963,7 +5973,7 @@
       "title": "Pokemon Trading Card Games Pokemon Day 2026 Collection"
     },
     "https://www.walmart.com/ip/POKEMON-SV8-SURGING-SPARKS-3PK-BLISTER/12610057726?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-24T16:07:02.814495+00:00",
+      "last_checked": "2026-08-24T22:58:57.154665+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -5983,7 +5993,7 @@
       "title": "Pokemon Trading Card Games Mega Evolution 5 Pitch Black Elite Trainer Box - Walmart.com"
     },
     "https://www.walmart.com/ip/Pok-mon-TCG-Scarlet-Violet-Destined-Rivals-Pok-mon-Center-Elite-Trainer-Box/15718673510?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-24T14:24:04.312251+00:00",
+      "last_checked": "2026-08-24T22:58:56.902801+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -6053,7 +6063,7 @@
       "title": "Pokemon TCG 4x Random Japanese Pokmon Packs | Pokemon Booster Bundle of Japanese Pokmon Cards $18.99"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-First-Partner-Illustration-Collection-Series-1/19283656289?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-24T16:07:03.158721+00:00",
+      "last_checked": "2026-08-24T22:58:57.441826+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -6113,7 +6123,7 @@
       "title": "Pokemon Trading Card Games Mega Evolution Chaos Rising Elite Trainer Box - Walmart.com"
     },
     "https://www.walmart.com/ip/Pokemon-Trading-Card-Games-Scarlet-Violet-9-Journey-Together-Booster-Bundle/15042474261?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-24T14:24:04.122595+00:00",
+      "last_checked": "2026-08-24T22:58:56.646678+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
