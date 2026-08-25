@@ -10,8 +10,12 @@ import httpx
 from bs4 import BeautifulSoup
 
 STATE_PATH = Path("state.json")
-WEBHOOK = os.getenv("DISCORD_WEBHOOK_URL", "").strip()
+ONLINE_WEBHOOK = os.getenv("DISCORD_WEBHOOK_URL", "").strip()
+LOCAL_WEBHOOK = os.getenv("LOCAL_DISCORD_WEBHOOK_URL", "").strip()
 MANUAL_RUN = os.getenv("GITHUB_EVENT_NAME", "") == "workflow_dispatch"
+MAX_OVER_RETAIL = 15.00
+LOCAL_CITY = "Greenville"
+LOCAL_STATE = "TX"
 
 HEADERS = {
     "User-Agent": (
@@ -163,6 +167,50 @@ PRIORITY_WATCHLIST = [
     {"name": "30th Celebration Greninja & Sylveon ex Boxes", "url": "https://buff.ly/zKFjSnR"},
     {"name": "30th Celebration Umbreon & Espeon Battle Decks", "url": "https://buff.ly/fyd2pqv"},
 ]
+
+
+# Local-stock channel checks. These are conservative:
+# a local alert is only sent when the public page itself contains
+# Greenville/TX plus pickup/in-stock language.
+LOCAL_STORES = [
+    ("Walmart", ["walmart.com"], [
+        "https://www.walmart.com/search?q=pokemon+cards",
+        "https://www.walmart.com/search?q=pokemon+tcg",
+    ]),
+    ("Target", ["target.com"], [
+        "https://www.target.com/s?searchTerm=pokemon+cards",
+        "https://www.target.com/s?searchTerm=pokemon+tcg",
+    ]),
+    ("Best Buy", ["bestbuy.com"], [
+        "https://www.bestbuy.com/site/searchpage.jsp?st=pokemon+cards",
+    ]),
+    ("Academy Sports + Outdoors", ["academy.com"], [
+        "https://www.academy.com/search?searchTerm=pokemon%20cards",
+    ]),
+    ("DICK'S Sporting Goods", ["dickssportinggoods.com"], [
+        "https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=pokemon%20cards",
+    ]),
+    ("Dollar General", ["dollargeneral.com"], [
+        "https://www.dollargeneral.com/search-results?query=pokemon",
+    ]),
+    ("Dollar Tree", ["dollartree.com"], [
+        "https://www.dollartree.com/searchresults?Ntt=pokemon",
+    ]),
+    ("Family Dollar", ["familydollar.com"], [
+        "https://www.familydollar.com/searchresults?Ntt=pokemon",
+    ]),
+    ("Walgreens", ["walgreens.com"], [
+        "https://www.walgreens.com/search/results.jsp?Ntt=pokemon%20cards",
+    ]),
+    ("CVS", ["cvs.com"], [
+        "https://www.cvs.com/search?searchTerm=pokemon%20cards",
+    ]),
+]
+
+LOCAL_STOCK_WORDS = (
+    "pickup", "pick up", "ready for pickup", "store pickup",
+    "in stock at", "available at", "pick-up",
+)
 
 PRODUCT_WORDS = (
     "booster", "elite trainer", " etb", "ultra-premium", "ultra premium",
@@ -451,9 +499,10 @@ def third_party_seller(store, text, product=None):
     return False, None
 
 
-def send_discord(title, lines, url=None, color=3447003):
-    if not WEBHOOK:
-        raise RuntimeError("DISCORD_WEBHOOK_URL is missing")
+def send_discord(title, lines, url=None, color=3447003, webhook=None):
+    webhook = webhook or ONLINE_WEBHOOK
+    if not webhook:
+        return
 
     embed = {
         "title": title[:256],
@@ -472,7 +521,7 @@ def send_discord(title, lines, url=None, color=3447003):
             "-H", "Content-Type: application/json",
             "-H", "User-Agent: PokemonTCGDrops/2.0",
             "-d", payload,
-            WEBHOOK,
+            webhook,
         ],
         capture_output=True,
         text=True,
@@ -696,10 +745,103 @@ def scan_priority_watchlist(client, state):
             alert_for_item(kind, store, item, resolved, priority=True)
 
 
+
+def local_page_has_stock(text):
+    compact = re.sub(r"\s+", " ", text.lower())
+    has_city = LOCAL_CITY.lower() in compact
+    has_state = " texas" in compact or " tx" in compact
+    has_pickup = any(word in compact for word in LOCAL_STOCK_WORDS)
+    has_stock = any(word in compact for word in IN_STOCK_WORDS)
+    return has_city and has_state and has_pickup and has_stock
+
+
+def send_local_alert(store_name, title, price, url):
+    msrp, value_label = msrp_comparison(price, title)
+    detected_price = parse_price(price)
+
+    if (
+        msrp is not None
+        and detected_price is not None
+        and detected_price > msrp + MAX_OVER_RETAIL
+    ):
+        return
+
+    lines = [
+        f"**{title}**",
+        f"Retailer: **{store_name}**",
+        f"Area: **{LOCAL_CITY}, {LOCAL_STATE}**",
+        "Status: **ð¢ LOCAL/PICKUP SIGNAL DETECTED**",
+        f"Price: **{price or 'Not detected'}**",
+        f"Retail/MSRP: **${msrp:.2f}**" if msrp is not None else "Retail/MSRP: **Unknown**",
+        f"Value: **{value_label}**",
+        "",
+        f"ð Product link: {url}",
+        "",
+        "â ï¸ Verify pickup quantity in the retailer app/site before driving.",
+    ]
+
+    send_discord(
+        f"ð LOCAL STOCK â {store_name}",
+        lines,
+        url=url,
+        color=3066993,
+        webhook=LOCAL_WEBHOOK,
+    )
+
+
+def scan_local_stock(client, state):
+    if not LOCAL_WEBHOOK:
+        return
+
+    local_state = state.setdefault("local_products", {})
+
+    for store_name, domains, search_urls in LOCAL_STORES:
+        for search_url in search_urls:
+            html, search_text = fetch(client, search_url)
+            if not html:
+                continue
+
+            soup = BeautifulSoup(html, "html.parser")
+            candidates = {}
+
+            for a in soup.find_all("a", href=True):
+                product_url = canonicalize(urljoin(search_url, a["href"]))
+                if not same_domain(product_url, domains):
+                    continue
+
+                title = " ".join(a.stripped_strings).strip()
+                if not title:
+                    title = (a.get("aria-label") or a.get("title") or "").strip()
+
+                if title and looks_like_product(title, product_url):
+                    candidates[product_url] = title[:240]
+
+            for product_url, title in list(candidates.items())[:8]:
+                product_html, product_text = fetch(client, product_url)
+                if not product_html or not local_page_has_stock(product_text):
+                    continue
+
+                price = find_price(product_text)
+                key = f"{store_name}|{product_url}"
+                old = local_state.get(key, {})
+                already_available = old.get("available", False)
+
+                local_state[key] = {
+                    "available": True,
+                    "title": title,
+                    "price": price,
+                    "last_checked": utcnow(),
+                }
+
+                if state.get("initialized") and not already_available:
+                    send_local_alert(store_name, title, price, product_url)
+
+
 def main():
     state = load_state()
     initialized = bool(state.get("initialized"))
     products = state.setdefault("products", {})
+    state.setdefault("local_products", {})
 
     if MANUAL_RUN:
         send_discord(
@@ -708,14 +850,29 @@ def main():
                 "Priority exact-link watchlist is enabled.",
                 "Amazon links are U.S.-only and cleaned to direct /dp/ASIN URLs.",
                 "Walmart, Target, Academy, DICK'S, Best Buy and other retailer discovery is expanded.",
-                "MSRP comparison is enabled.",
+                "Retail/MSRP comparison is enabled.",
+                f"Products more than **${MAX_OVER_RETAIL:.0f} over known retail/MSRP** are filtered out.",
                 "Scheduled checks are requested every **5 minutes**.",
             ],
             color=5763719,
         )
 
+    if MANUAL_RUN and LOCAL_WEBHOOK:
+        send_discord(
+            "â Local PokÃ©mon stock channel connected",
+            [
+                f"Watching conservative public pickup/local signals around **{LOCAL_CITY}, {LOCAL_STATE}**.",
+                "Includes Walmart, Target, Best Buy, Academy, DICK'S, Dollar General, Dollar Tree, Family Dollar, Walgreens and CVS.",
+                f"Products more than **${MAX_OVER_RETAIL:.0f} over known retail/MSRP** are filtered out.",
+                "Dollar-store websites may not expose reliable SKU-level store inventory.",
+            ],
+            color=5763719,
+            webhook=LOCAL_WEBHOOK,
+        )
+
     with httpx.Client() as client:
         scan_priority_watchlist(client, state)
+        scan_local_stock(client, state)
 
         for store in STORES:
             discovered = {}
