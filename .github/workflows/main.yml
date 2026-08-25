@@ -77,6 +77,6 @@ jobs:
             sleep 2
           done
 
-          echo "Monitor completed, but state save was skipped after 3 retries."
-          echo "The next run can rebuild state."
+          echo "State save skipped after 3 retries."
+          echo "The monitor completed successfully; the next run will rebuild state."
           exit 0
