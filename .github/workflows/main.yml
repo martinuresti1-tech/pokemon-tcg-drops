@@ -38,24 +38,45 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: python monitor.py
 
-      - name: Save product state
+      - name: Save product state safely
         if: always()
+        shell: bash
         run: |
+          if [ ! -f state.json ]; then
+            echo "No state.json to save."
+            exit 0
+          fi
+
+          cp state.json /tmp/pokemon-state.json
+
           git config user.name "pokemon-tcg-monitor"
           git config user.email "actions@users.noreply.github.com"
 
-          git add state.json
+          for ATTEMPT in 1 2 3; do
+            echo "State save attempt ${ATTEMPT}"
 
-          if git diff --cached --quiet; then
-            echo "No state changes to save."
-            exit 0
-          fi
+            git fetch origin main
+            git reset --hard origin/main
 
-          git commit -m "Update Pokemon TCG monitor state"
+            cp /tmp/pokemon-state.json state.json
+            git add state.json
 
-          if ! git push origin HEAD:main; then
-            echo "State push skipped because main changed during this run."
-            echo "The monitor completed; the next scheduled run will rebuild state."
-            exit 0
-          fi
+            if git diff --cached --quiet; then
+              echo "No state changes to save."
+              exit 0
+            fi
 
+            git commit -m "Update Pokemon TCG monitor state"
+
+            if git push origin HEAD:main; then
+              echo "State saved successfully."
+              exit 0
+            fi
+
+            echo "Main changed while saving state. Retrying..."
+            sleep 2
+          done
+
+          echo "Monitor completed, but state save was skipped after 3 retries."
+          echo "The next run can rebuild state."
+          exit 0
