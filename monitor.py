@@ -2,6 +2,7 @@ import json
 import os
 import re
 import subprocess
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
@@ -111,7 +112,7 @@ STORES = [
     },
     {
         "key": "pokemon_center",
-        "name": "PokÃ©mon Center",
+        "name": "Pokemon Center",
         "domains": ["pokemoncenter.com"],
         "search_urls": [
             "https://www.pokemoncenter.com/category/trading-card-game",
@@ -255,9 +256,29 @@ RETAILER_DOMAIN_MAP = {
     "www.gamestop.com": "GameStop",
     "barnesandnoble.com": "Barnes & Noble",
     "www.barnesandnoble.com": "Barnes & Noble",
-    "pokemoncenter.com": "PokÃ©mon Center",
-    "www.pokemoncenter.com": "PokÃ©mon Center",
+    "pokemoncenter.com": "Pokemon Center",
+    "www.pokemoncenter.com": "Pokemon Center",
 }
+
+
+
+def clean_text(value):
+    if value is None:
+        return ""
+    s = str(value)
+
+    # Try to repair common UTF-8 mojibake.
+    if any(token in s for token in ("Ã", "Ã¢", "Ã°", "Ã")):
+        try:
+            s = s.encode("latin1", errors="ignore").decode("utf-8", errors="ignore")
+        except Exception:
+            pass
+
+    # Output ASCII-safe Discord text so mobile clients never display mojibake.
+    s = unicodedata.normalize("NFKD", s)
+    s = s.encode("ascii", "ignore").decode("ascii")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 
 def utcnow():
@@ -279,7 +300,7 @@ def load_state():
 
 def save_state(state):
     STATE_PATH.write_text(
-        json.dumps(state, indent=2, ensure_ascii=False, sort_keys=True),
+        json.dumps(state, indent=2, ensure_ascii=True, sort_keys=True),
         encoding="utf-8",
     )
 
@@ -322,6 +343,8 @@ def extract_amazon_asin(url):
     for pattern in (
         r"/DP/([A-Z0-9]{10})(?:[/?]|$)",
         r"/GP/PRODUCT/([A-Z0-9]{10})(?:[/?]|$)",
+        r"/GP/OFFER-LISTING/([A-Z0-9]{10})(?:[/?]|$)",
+        r"/OFFER-LISTING/([A-Z0-9]{10})(?:[/?]|$)",
         r"/PRODUCT/([A-Z0-9]{10})(?:[/?]|$)",
     ):
         m = re.search(pattern, upper)
@@ -355,7 +378,7 @@ def looks_like_product(title, url):
 def infer_title_from_url(url):
     part = urlparse(url).path.rstrip("/").split("/")[-1]
     part = re.sub(r"[-_]+", " ", part)
-    return part[:220].strip().title() or "PokÃ©mon TCG product"
+    return part[:220].strip().title() or "Pokemon TCG product"
 
 
 def infer_status(text):
@@ -504,17 +527,26 @@ def send_discord(title, lines, url=None, color=3447003, webhook=None):
     if not webhook:
         return
 
+    title = clean_text(title)
+    cleaned_lines = []
+    for line in lines:
+        if "http://" in line or "https://" in line:
+            cleaned_lines.append(line)
+        else:
+            cleaned_lines.append(clean_text(line))
+    lines = cleaned_lines
+
     embed = {
         "title": title[:256],
         "description": "\n".join(lines)[:4000],
         "color": color,
         "timestamp": utcnow(),
-        "footer": {"text": "PokÃ©mon TCG Drop Monitor"},
+        "footer": {"text": "Pokemon TCG Drop Monitor"},
     }
     if url:
         embed["url"] = url
 
-    payload = json.dumps({"embeds": [embed]}, ensure_ascii=False)
+    payload = json.dumps({"embeds": [embed]}, ensure_ascii=True)
     result = subprocess.run(
         [
             "curl", "--silent", "--show-error", "--fail-with-body",
@@ -565,7 +597,7 @@ def extract_links(store, page_url, html):
         if not cleaned:
             continue
 
-        found[cleaned] = title[:240]
+        found[cleaned] = clean_text(title)[:240]
     return found
 
 
@@ -609,45 +641,30 @@ def inspect_product(client, store, url, fallback_title):
 
 def status_label(status):
     return {
-        "in_stock": "ð¢ IN STOCK",
-        "preorder": "ð£ PREORDER",
-        "out_of_stock": "ð´ OUT OF STOCK",
-        "unknown": "ðµ NEW LISTING",
+        "in_stock": "IN STOCK",
+        "preorder": "PREORDER",
+        "out_of_stock": "OUT OF STOCK",
+        "unknown": "NEW LISTING",
     }.get(status, status.upper())
 
 
 def quick_links(retailer, product_url):
-    links = []
-
+    # Product-page links only. Retailer cart deep links are session-dependent
+    # and were unreliable, so they are intentionally omitted.
     if retailer == "Amazon":
-        asin = extract_amazon_asin(product_url)
-        if asin:
-            clean = f"https://www.amazon.com/dp/{asin}"
-            quick_cart = (
-                "https://www.amazon.com/gp/aws/cart/add.html"
-                f"?ASIN.1={asin}&Quantity.1=1"
-            )
-            links.append(("ð Amazon quick cart", quick_cart))
-            links.append(("ð Amazon product", clean))
-        else:
-            links.append(("ð Amazon product", product_url))
+        clean = normalize_amazon_url(product_url)
+        return [("OPEN AMAZON PRODUCT", clean)] if clean else []
 
-    elif retailer == "Target":
-        links.append(("ð Target product", product_url))
-        links.append(("ð Target cart", "https://www.target.com/cart"))
+    if retailer == "Target":
+        return [("OPEN TARGET PRODUCT", product_url)]
 
-    elif retailer == "Walmart":
-        links.append(("ð Walmart product", product_url))
-        links.append(("ð Walmart cart", "https://www.walmart.com/cart"))
+    if retailer == "Walmart":
+        return [("OPEN WALMART PRODUCT", product_url)]
 
-    elif retailer == "Best Buy":
-        links.append(("ð Best Buy product", product_url))
-        links.append(("ð Best Buy cart", "https://www.bestbuy.com/cart"))
+    if retailer == "Best Buy":
+        return [("OPEN BEST BUY PRODUCT", product_url)]
 
-    else:
-        links.append(("ð Product", product_url))
-
-    return links
+    return [("OPEN PRODUCT", product_url)]
 
 
 def alert_for_item(kind, store, item, url, priority=False):
@@ -655,17 +672,17 @@ def alert_for_item(kind, store, item, url, priority=False):
 
     lines = []
     if priority:
-        lines.append("**ð¥ PRIORITY WATCHLIST HIT**")
+        lines.append("PRIORITY WATCHLIST HIT")
     if "30th" in item["title"].lower():
-        lines.append("**ð¥ 30TH CELEBRATION**")
+        lines.append("30TH CELEBRATION")
 
     lines += [
-        f"**{item['title']}**",
-        f"Retailer: **{store['name']}**",
-        f"Status: **{status_label(item['status'])}**",
-        f"Price: **{item.get('price') or 'Not detected'}**",
-        f"MSRP: **${msrp:.2f}**" if msrp is not None else "MSRP: **Unknown**",
-        f"Value: **{value}**",
+        f"Product: {clean_text(item['title'])}",
+        f"Retailer: {store['name']}",
+        f"Status: {status_label(item['status'])}",
+        f"Price: {item.get('price') or 'Not detected'}",
+        f"Retail/MSRP: ${msrp:.2f}" if msrp is not None else "Retail/MSRP: Unknown",
+        f"Value: {value}",
         "",
     ]
 
@@ -673,16 +690,16 @@ def alert_for_item(kind, store, item, url, priority=False):
         lines.append(f"{label}: {link}")
 
     if priority:
-        title = f"ð¨ PRIORITY DROP â {store['name']}"
+        title = f"PRIORITY DROP - {store['name']}"
         color = 15158332
     elif kind == "restock":
-        title = f"ð¨ RESTOCK â {store['name']}"
+        title = f"RESTOCK - {store['name']}"
         color = 15158332
     elif kind == "preorder":
-        title = f"ð£ PREORDER OPEN â {store['name']}"
+        title = f"PREORDER OPEN - {store['name']}"
         color = 10181046
     else:
-        title = f"ð NEW LISTING â {store['name']}"
+        title = f"NEW LISTING - {store['name']}"
         color = 3447003
 
     send_discord(title, lines, url=url, color=color)
@@ -767,13 +784,13 @@ def send_local_alert(store_name, title, price, url):
         return
 
     lines = [
-        f"**{title}**",
-        f"Retailer: **{store_name}**",
-        f"Area: **{LOCAL_CITY}, {LOCAL_STATE}**",
-        "Status: **ð¢ LOCAL/PICKUP SIGNAL DETECTED**",
-        f"Price: **{price or 'Not detected'}**",
-        f"Retail/MSRP: **${msrp:.2f}**" if msrp is not None else "Retail/MSRP: **Unknown**",
-        f"Value: **{value_label}**",
+        f"{title}",
+        f"Retailer: {store_name}",
+        f"Area: {LOCAL_CITY}, {LOCAL_STATE}",
+        "Status: ð¢ LOCAL/PICKUP SIGNAL DETECTED",
+        f"Price: {price or 'Not detected'}",
+        f"Retail/MSRP: ${msrp:.2f}" if msrp is not None else "Retail/MSRP: Unknown",
+        f"Value: {clean_text(value_label)}",
         "",
         f"ð Product link: {url}",
         "",
@@ -781,7 +798,7 @@ def send_local_alert(store_name, title, price, url):
     ]
 
     send_discord(
-        f"ð LOCAL STOCK â {store_name}",
+        f"LOCAL STOCK - {store_name}",
         lines,
         url=url,
         color=3066993,
@@ -845,25 +862,25 @@ def main():
 
     if MANUAL_RUN:
         send_discord(
-            "â PokÃ©mon TCG monitor v2 started",
+            "Pokemon TCG monitor v2 started",
             [
                 "Priority exact-link watchlist is enabled.",
                 "Amazon links are U.S.-only and cleaned to direct /dp/ASIN URLs.",
                 "Walmart, Target, Academy, DICK'S, Best Buy and other retailer discovery is expanded.",
                 "Retail/MSRP comparison is enabled.",
-                f"Products more than **${MAX_OVER_RETAIL:.0f} over known retail/MSRP** are filtered out.",
-                "Scheduled checks are requested every **5 minutes**.",
+                f"Products more than ${MAX_OVER_RETAIL:.0f} over known retail/MSRP are filtered out.",
+                "Scheduled checks are requested every 5 minutes.",
             ],
             color=5763719,
         )
 
     if MANUAL_RUN and LOCAL_WEBHOOK:
         send_discord(
-            "â Local PokÃ©mon stock channel connected",
+            "Local Pokemon stock channel connected",
             [
-                f"Watching conservative public pickup/local signals around **{LOCAL_CITY}, {LOCAL_STATE}**.",
+                f"Watching conservative public pickup/local signals around {LOCAL_CITY}, {LOCAL_STATE}.",
                 "Includes Walmart, Target, Best Buy, Academy, DICK'S, Dollar General, Dollar Tree, Family Dollar, Walgreens and CVS.",
-                f"Products more than **${MAX_OVER_RETAIL:.0f} over known retail/MSRP** are filtered out.",
+                f"Products more than ${MAX_OVER_RETAIL:.0f} over known retail/MSRP are filtered out.",
                 "Dollar-store websites may not expose reliable SKU-level store inventory.",
             ],
             color=5763719,
@@ -904,7 +921,7 @@ def main():
 
             for url, old in known[:6]:
                 fresh = inspect_product(
-                    client, store, url, old.get("title", "PokÃ©mon TCG product")
+                    client, store, url, old.get("title", "Pokemon TCG product")
                 )
                 if fresh is None:
                     continue
