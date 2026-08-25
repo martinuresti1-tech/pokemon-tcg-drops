@@ -1,50 +1,67 @@
 {
   "initialized": true,
-  "last_run": "2026-08-24T23:55:34.418055+00:00",
+  "last_run": "2026-08-25T01:03:18.445848+00:00",
+  "local_products": {},
   "priority_watchlist": {
     "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.&nrtv_cid=5au9d4jwl3cv9&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373": {
       "last_checked": "2026-08-24T23:51:27.845327+00:00",
-      "name": "Pokémon Trading Card Game: Mega Evolution—Ascended Heroes Mega Emboar ex Box",
+      "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Emboar ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002&nrtv_cid=5au9d4jwl3cv9&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373",
       "source_url": "https://howl.link/ggc1pk3oit7zn",
       "status": "in_stock"
     },
+    "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.&nrtv_cid=jujbpe9y9xrl7&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373": {
+      "last_checked": "2026-08-25T00:58:24.241305+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Emboar ex Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002&nrtv_cid=jujbpe9y9xrl7&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373",
+      "source_url": "https://howl.link/ggc1pk3oit7zn",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.&nrtv_cid=651mczw9jk91e&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373": {
       "last_checked": "2026-08-24T23:51:29.953926+00:00",
-      "name": "Pokémon Trading Card Game: Mega Evolution—Ascended Heroes Mega Meganium ex Box",
+      "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Meganium ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002&nrtv_cid=651mczw9jk91e&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373",
       "source_url": "https://howl.link/bw6mjaw832qzz",
       "status": "in_stock"
     },
+    "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.&nrtv_cid=cgpf1mhuxrrrp&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373": {
+      "last_checked": "2026-08-25T00:58:25.747026+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Meganium ex Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002&nrtv_cid=cgpf1mhuxrrrp&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373",
+      "source_url": "https://howl.link/bw6mjaw832qzz",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/pok-233-mon-sv-8-5-prismatic-evolutions-super-premium-collection/-/A-1012055696": {
-      "last_checked": "2026-08-24T23:51:07.315388+00:00",
-      "name": "Pokémon SV 8.5 Prismatic Evolutions Super Premium Collection",
+      "last_checked": "2026-08-25T00:58:10.024695+00:00",
+      "name": "Pok\u00e9mon SV 8.5 Prismatic Evolutions Super Premium Collection",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-sv-8-5-prismatic-evolutions-super-premium-collection/-/A-1012055696",
       "source_url": "https://www.target.com/p/pok-233-mon-sv-8-5-prismatic-evolutions-super-premium-collection/-/A-1012055696",
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-elite-trainer-box/-/A-1010892076": {
-      "last_checked": "2026-08-24T23:51:11.072469+00:00",
-      "name": "Pokémon Trading Card Game: 30th Celebration Elite Trainer Box",
+      "last_checked": "2026-08-25T00:58:12.845005+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Elite Trainer Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-elite-trainer-box/-/A-1010892076",
       "source_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-elite-trainer-box/-/A-1010892076",
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-sylveon-ex-box/-/A-1010892068": {
-      "last_checked": "2026-08-24T23:51:12.895615+00:00",
-      "name": "Pokémon Trading Card Game: 30th Celebration Sylveon ex Box",
+      "last_checked": "2026-08-25T00:58:14.280528+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Sylveon ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-sylveon-ex-box/-/A-1010892068",
       "source_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-sylveon-ex-box/-/A-1010892068",
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-tech-sticker-collection-lucario-or-alolan-exeggutor-styles-may-vary/-/A-1010892078": {
-      "last_checked": "2026-08-24T23:51:09.227072+00:00",
-      "name": "Pokémon Trading Card Game: 30th Celebration Tech Sticker Collection (Lucario or Alolan Exeggutor)- Styles May Vary",
+      "last_checked": "2026-08-25T00:58:11.638689+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Tech Sticker Collection (Lucario or Alolan Exeggutor)- Styles May Vary",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-tech-sticker-collection-lucario-or-alolan-exeggutor-styles-may-vary/-/A-1010892078",
       "source_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-tech-sticker-collection-lucario-or-alolan-exeggutor-styles-may-vary/-/A-1010892078",
@@ -52,9 +69,17 @@
     },
     "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=bj2a112xhl7s8&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&cpng=PTID3&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.": {
       "last_checked": "2026-08-24T23:51:19.641459+00:00",
-      "name": "Pokémon Tading Card Game: 30th Celebration Greninja ex Box",
+      "name": "Pok\u00e9mon Tading Card Game: 30th Celebration Greninja ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=bj2a112xhl7s8&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&cpng=PTID3&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/cbeplu5wxmz6w",
+      "status": "in_stock"
+    },
+    "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=tc39cagf4mkga&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&cpng=PTID3&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.": {
+      "last_checked": "2026-08-25T00:58:18.752445+00:00",
+      "name": "Pok\u00e9mon Tading Card Game: 30th Celebration Greninja ex Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=tc39cagf4mkga&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&cpng=PTID3&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002",
       "source_url": "https://howl.link/cbeplu5wxmz6w",
       "status": "in_stock"
     },
@@ -66,9 +91,25 @@
       "source_url": "https://howl.link/qi8oes4322sux",
       "status": "in_stock"
     },
+    "https://www.target.com/p/zephyr/A-1010892069?nrtv_cid=39xlrfiywjszu&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&cpng=PTID3&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.": {
+      "last_checked": "2026-08-25T00:58:22.133004+00:00",
+      "name": "Pokemon Trading Card Game: 30th Celebration Tin (Sylveon or Greninja)- Styles May Vary",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892069?nrtv_cid=39xlrfiywjszu&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&cpng=PTID3&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/qi8oes4322sux",
+      "status": "in_stock"
+    },
+    "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=b04d9ephlik0c&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&cpng=PTID3&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.": {
+      "last_checked": "2026-08-25T00:58:20.514396+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Knock Out Collection",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=b04d9ephlik0c&clkid=0d2a9cf9Na02011f1aae31905c071c4a8&cpng=PTID3&TCID=AFL-0d2a9cf9Na02011f1aae31905c071c4a8-376373&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/53go48dzfoe7i",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=et2hf6rpti0d8&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&cpng=PTID3&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373&afsrc=1&lnm=201333&afid=Howl+Technologies%2C+Inc.": {
       "last_checked": "2026-08-24T23:51:23.652276+00:00",
-      "name": "Pokémon Trading Card Game: 30th Celebration Knock Out Collection",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Knock Out Collection",
       "price": null,
       "resolved_url": "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=et2hf6rpti0d8&clkid=b08f1e0cNa01611f18cb69bd144fe6dd4&cpng=PTID3&TCID=AFL-b08f1e0cNa01611f18cb69bd144fe6dd4-376373&afsrc=1&lnm=201333&afid=Howl%20Technologies%2C%20Inc.&ref=tgt_adv_xasd0002",
       "source_url": "https://howl.link/53go48dzfoe7i",
@@ -77,24 +118,24 @@
   },
   "products": {
     "https://www.academy.com/p/pok-mon-lumiose-city-mini-tin": {
-      "last_checked": "2026-08-24T16:07:07.983912+00:00",
+      "last_checked": "2026-08-25T01:01:05.924075+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Lumiose City Mini Tin"
+      "title": "Pok\u00e9mon Lumiose City Mini Tin"
     },
     "https://www.academy.com/p/pok-mon-mega-evolution-5-pitch-black-booster-bundle": {
-      "last_checked": "2026-08-24T17:51:41.060082+00:00",
+      "last_checked": "2026-08-25T01:01:07.242915+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Mega Evolution 5 Pitch Black Booster Bundle"
+      "title": "Pok\u00e9mon Mega Evolution 5 Pitch Black Booster Bundle"
     },
     "https://www.academy.com/p/pok-mon-mega-evolution-5-pitch-black-display-pack": {
       "last_checked": "2026-08-24T23:53:59.043664+00:00",
@@ -104,7 +145,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Mega Evolution 5 Pitch Black Display Pack"
+      "title": "Pok\u00e9mon Mega Evolution 5 Pitch Black Display Pack"
     },
     "https://www.academy.com/p/pok-mon-mega-evolution-5-pitch-black-elite-trainer-box": {
       "last_checked": "2026-08-24T22:59:02.904952+00:00",
@@ -114,7 +155,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Mega Evolution 5 Pitch Black Elite Trainer Box"
+      "title": "Pok\u00e9mon Mega Evolution 5 Pitch Black Elite Trainer Box"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-2--phantasmal-flames-booster-bundle": {
       "last_checked": "2026-08-24T23:53:59.907677+00:00",
@@ -124,7 +165,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Mega Evolutions 2: Phantasmal Flames Booster Bundle"
+      "title": "Pok\u00e9mon Mega Evolutions 2: Phantasmal Flames Booster Bundle"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-2--phantasmal-flames-elite-trainer": {
       "last_checked": "2026-08-24T22:59:03.812562+00:00",
@@ -134,17 +175,17 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Mega Evolutions 2: Phantasmal Flames Elite Trainer"
+      "title": "Pok\u00e9mon Mega Evolutions 2: Phantasmal Flames Elite Trainer"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-25-ascended-heroes-first-partners-deluxe-pin-collection": {
-      "last_checked": "2026-08-24T17:51:40.542763+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:06.556431+00:00",
+      "price": "$29.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Mega Evolutions 2.5 Ascended Heroes First Partners Deluxe Pin Collection"
+      "title": "Pok\u00e9mon Mega Evolutions 2.5 Ascended Heroes First Partners Deluxe Pin Collection"
     },
     "https://www.academy.com/p/pok-mon-sv10-destined-rival-booster-bundle?sku=multi": {
       "last_checked": "2026-08-24T22:59:03.347740+00:00",
@@ -154,7 +195,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon SV10 Destined Rival Booster Bundle"
+      "title": "Pok\u00e9mon SV10 Destined Rival Booster Bundle"
     },
     "https://www.academy.com/p/pok-mon-sv85-prismatic-evolutions-super-premium-collection": {
       "last_checked": "2026-08-24T21:58:46.085811+00:00",
@@ -164,7 +205,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon SV8.5 Prismatic Evolutions Super Premium Collection"
+      "title": "Pok\u00e9mon SV8.5 Prismatic Evolutions Super Premium Collection"
     },
     "https://www.academy.com/p/pok-mon-tcg--scarlet-violet-prismatic-evolutions-eevee-friends-light-up-cards-pack?sku=multi": {
       "last_checked": "2026-08-24T21:58:46.863101+00:00",
@@ -174,7 +215,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon TCG: Scarlet & Violet Prismatic Evolutions Eevee & Friends Light Up Cards Pack"
+      "title": "Pok\u00e9mon TCG: Scarlet & Violet Prismatic Evolutions Eevee & Friends Light Up Cards Pack"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game--mega-evolutions-25-ascended-heroes-2-pack-blister": {
       "last_checked": "2026-08-24T23:53:58.623930+00:00",
@@ -184,7 +225,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game: Mega Evolutions 2.5 Ascended Heroes 2-Pack Blister"
+      "title": "Pok\u00e9mon Trading Card Game: Mega Evolutions 2.5 Ascended Heroes 2-Pack Blister"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-charizard-tin": {
       "last_checked": "2026-08-24T22:59:02.385620+00:00",
@@ -194,7 +235,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Charizard Tin"
+      "title": "Pok\u00e9mon Trading Card Game Mega Charizard Tin"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-25-ascended-heroes-elite-trainer": {
       "last_checked": "2026-08-24T22:59:01.765016+00:00",
@@ -204,7 +245,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Elite Trainer"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Elite Trainer"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-25-ascended-heroes-mini-tin": {
       "last_checked": "2026-08-24T19:19:24.606881+00:00",
@@ -214,7 +255,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Mini Tin"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Mini Tin"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-25-ascended-heroes-premier-poster-collection": {
       "last_checked": "2026-08-24T21:58:47.435527+00:00",
@@ -224,7 +265,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Premier Poster Collection"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Premier Poster Collection"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-25-ascended-heroes-tech-sticker-collection": {
       "last_checked": "2026-08-24T21:00:04.684325+00:00",
@@ -234,17 +275,17 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Tech Sticker Collection"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 2.5 Ascended Heroes Tech Sticker Collection"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-3-perfect-order-booster-display-pack": {
-      "last_checked": "2026-08-24T17:51:40.813565+00:00",
+      "last_checked": "2026-08-25T01:01:06.893624+00:00",
       "price": "$6.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 3 Perfect Order Booster Display Pack"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 3 Perfect Order Booster Display Pack"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-3-perfect-order-check-lane-blister": {
       "last_checked": "2026-08-24T19:19:22.859413+00:00",
@@ -254,7 +295,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 3 Perfect Order Check Lane Blister"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 3 Perfect Order Check Lane Blister"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-3-perfect-order-elite-trainer": {
       "last_checked": "2026-08-24T21:00:06.768430+00:00",
@@ -264,7 +305,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Mega Evolutions 3 Perfect Order Elite Trainer"
+      "title": "Pok\u00e9mon Trading Card Game Mega Evolutions 3 Perfect Order Elite Trainer"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-paradox-clash": {
       "last_checked": "2026-08-24T19:19:24.012234+00:00",
@@ -274,7 +315,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Paradox Clash"
+      "title": "Pok\u00e9mon Trading Card Game Paradox Clash"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-pok-mon-day-2026-collection": {
       "last_checked": "2026-08-24T23:53:58.256588+00:00",
@@ -284,7 +325,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Pokémon Day 2026 Collection"
+      "title": "Pok\u00e9mon Trading Card Game Pok\u00e9mon Day 2026 Collection"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-45-paldean-fates-booster-bundle": {
       "last_checked": "2026-08-24T21:58:48.618229+00:00",
@@ -294,7 +335,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Scarlet & Violet 4.5 Paldean Fates Booster Bundle"
+      "title": "Pok\u00e9mon Trading Card Game Scarlet & Violet 4.5 Paldean Fates Booster Bundle"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-6-twilight-masquerade-booster-display-box?sku=multi": {
       "last_checked": "2026-08-24T17:51:41.931858+00:00",
@@ -304,7 +345,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Scarlet & Violet 6 Twilight Masquerade Booster Display Box"
+      "title": "Pok\u00e9mon Trading Card Game Scarlet & Violet 6 Twilight Masquerade Booster Display Box"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-9---journey-together-3-booster-blister": {
       "last_checked": "2026-08-24T19:19:23.558813+00:00",
@@ -314,7 +355,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Scarlet & Violet 9 – Journey Together 3 Booster Blister"
+      "title": "Pok\u00e9mon Trading Card Game Scarlet & Violet 9 \u2013 Journey Together 3 Booster Blister"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-9---journey-together-booster-bundle": {
       "last_checked": "2026-08-24T23:54:00.347354+00:00",
@@ -324,17 +365,17 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Scarlet & Violet 9 – Journey Together Booster Bundle"
+      "title": "Pok\u00e9mon Trading Card Game Scarlet & Violet 9 \u2013 Journey Together Booster Bundle"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-9-journey-together-enhanced-booster-display-pack?sku=multi": {
-      "last_checked": "2026-08-24T17:51:41.498776+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:07.670978+00:00",
+      "price": "$5.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon Trading Card Game Scarlet & Violet 9 Journey Together Enhanced Booster Display Pack"
+      "title": "Pok\u00e9mon Trading Card Game Scarlet & Violet 9 Journey Together Enhanced Booster Display Pack"
     },
     "https://www.academy.com/p/pokemon-mega-evolutions-25-ascended-heroes-booster-bundle": {
       "last_checked": "2026-08-24T21:58:45.640546+00:00",
@@ -367,7 +408,7 @@
       "title": "Pokemon Mega Evolutions 4: Chaos Rising Elite Trainer Box"
     },
     "https://www.academy.com/p/pokemon-paradox-destinies-tin": {
-      "last_checked": "2026-08-24T16:07:08.398824+00:00",
+      "last_checked": "2026-08-25T01:01:06.144663+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -394,7 +435,7 @@
       "store": "Academy Sports + Outdoors",
       "store_key": "academy",
       "third_party": false,
-      "title": "Pokémon TCG: Scarlet & Violet Prismatic Evolutions Mini Tin"
+      "title": "Pok\u00e9mon TCG: Scarlet & Violet Prismatic Evolutions Mini Tin"
     },
     "https://www.academy.com/p/pokemon-trading-card-game-mega-evolutions-3-perfect-order-booster-pack": {
       "last_checked": "2026-08-24T21:00:05.903092+00:00",
@@ -417,10 +458,10 @@
       "title": "Pokemon Trading Card Game Mega Evolutions 3 Perfect Order Booster Pack"
     },
     "https://www.amazon.com/Kayou-Little-Trading-Discord-Packs/dp/B0H9KBV8QF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCaDIi6sDUjjkKtXSVeHLs57Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23VyXvZHRy9MPbKtgDUGDbkwSpW3pRFGDQ7cmwSZ45jjaigYMoesbzzsSlmoTNoFMStNBJddwIknbb5dOB4iXgz_J-uMSvYGC27H-Cm3dihLIjUGfdvEmIpwY2lqDSAELrIeRtEjXhqJj-fXUS-m7-OQomCCk0-8H-DFUiGFg0d-ZN1QqPpdGeYMsVPN0y_-a0.dVe4etqIikMeZRI7ux2BnF0ifgzL_vr2xqcGrkbWbgo&dib_tag=se&keywords=pokemon+tcg&qid=1787407194&sr=8-3": {
-      "last_checked": "2026-08-22T13:59:57.940636+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:47.702584+00:00",
+      "price": "$57.99",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -934,7 +975,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "CLP 84,491 CLP 84,491 Typical: CLP 91,434 Typical: CLP 91,434 CLP91,434"
+      "title": "CLP\u00a084,491 CLP 84,491 Typical: CLP\u00a091,434 Typical: CLP\u00a091,434 CLP91,434"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Ascended-Heroes-Booster/dp/B0G3CV6Z9D/ref=sr_1_4?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQPBViVdBRTqPDgsZUi_B_6y45QtlfhZ-i99WreY-4kgATifRHn_CNpLMupPKS1h4aCk9b8malBPJz_lJMoSyIr2cJ4RuoUZQ8K-mfH7LSGtOe7mEsDMfnHDVVeWJINzPAHLzA3eE6P9FxCDxYs-eujVljvOtB42R1PCKSHcTLdtXiyIlnXwtviRJduf8W5P9rSZ0FyhfgXaVIZHL3cD1BI4giNcKahpEUKgWHXMNI6o8Bi7DW3VlXM7YhXtC2S5Zjg.hZ1Icfw2740Cy7gLWZmRdoQhIKTQj3bU1Ixbd0Uux98&dib_tag=se&keywords=pokemon+tcg&qid=1787491341&sr=8-4": {
       "last_checked": "2026-08-23T13:22:24.852597+00:00",
@@ -1854,7 +1895,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "CLP 45,731 CLP 45,731 List: CLP 54,879 List: CLP 54,879 CLP54,879"
+      "title": "CLP\u00a045,731 CLP 45,731 List: CLP\u00a054,879 List: CLP\u00a054,879 CLP54,879"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Chaos-Rising-Booster/dp/B0GR6Q72ND/ref=sr_1_5?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PkJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt8w5gKvo9vcKoYkAH_SDJslVMvEzzsXYoAKJcBbZAYmA0EpmYU1d-_49dInMHQFUQxYYTrmSwiIIDDkoBDK_NsYWs4QXoHF8SfNC6ktHrUyVGP1_j1gMfUbSzRfFADffhHB1Lz-SvzYsCtcQtpMrRT7N_KbMNM4t5bIQAr_C4n-JA.SI7ts3pq394LQC47h_BkjME-tuGG0GR6Jsh32-NCtXA&dib_tag=se&keywords=pokemon+tcg&qid=1787525654&sr=8-5": {
       "last_checked": "2026-08-23T22:54:21.416904+00:00",
@@ -2064,7 +2105,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Chaos Rising Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Chaos Rising Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Chaos-Rising-Trainer/dp/B0GR6N18F6/ref=sr_1_8_mod_primary_new?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59ePilvcYEqQ22fTO2X6GvGCfBViVdBRTqPDgsZUi_B_6yf6IjX7cP9SEampvvQFGN0PNkHjFBtXXAbHiQ45nqI4LoK45tXIEiwMLqu6bgmCu2_vGbJJDPsnbsYCZUm609my4E-VCwmeMWCyAHm6fCvwDZr26u2eOfuZ1WgxjIo4mZSPRvJPxx6IT5yVLzsIg15Tv-vEVLpHr3EVUytAfdCLr4afkPeKRME1Ojq93Q_aTtEtRIrIrrvsLIVEOzgTUDh46YsIfstD-KtsTu0uyL9Ec.iUBFyCP7r7hdGLxVx_mV8Zv2ojqlaCqJipPxRbSPE4k&dib_tag=se&keywords=pokemon+tcg&qid=1787368086&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-8": {
       "last_checked": "2026-08-23T15:50:45.369005+00:00",
@@ -2074,7 +2115,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "TCG: Mega Evolution—Chaos Rising Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Chaos Rising Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Perfect-Booster-Bundle/dp/B0GG11K25W/ref=sr_1_9?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzWkX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl3Uyt2C3flsM5k16QW74jZzrLqDpshH4VuTE06XK3qvOY5wIYK5wx4cbwnN061V-0pxt2V3pkTMyvKoNFMXVBPgQ0KyHpeBSVKoXSp8KluVA5aVwHd6RyVYmxMBvNbIVZR-S9k7UPkTm1w-Y91gjO0s.BdyPPqEeuIWOTKjRvdjNdb7UTCjAVh2B-k8NDMv5pRw&dib_tag=se&keywords=pokemon+tcg&qid=1787327637&sr=8-9": {
       "last_checked": "2026-08-22T15:45:27.615121+00:00",
@@ -2097,14 +2138,14 @@
       "title": "$189.98 $ 189 . 98 Typical: $199.95 Typical: $199.95 $199.95"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCaDIi6sDUjjkKtXSVeHLs57Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23VyXvZHRy9MPbKtgDUGDbkwSpW3pRFGDQ7cmwSZ45jjaigYMoesbzzsSlmoTNoFMStNBJddwIknbb5dOB4iXgz_J-uMSvYGC27H-Cm3dihLIjUGfdvEmIpwY2lqDSAELrIeRtEjXhqJj-fXUS-m7-OQomCCk0-8H-DFUiGFg0d-ZN1QqPpdGeYMsVPN0y_-a0.dVe4etqIikMeZRI7ux2BnF0ifgzL_vr2xqcGrkbWbgo&dib_tag=se&keywords=pokemon+tcg&qid=1787407194&sr=8-1": {
-      "last_checked": "2026-08-22T13:59:56.468534+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:40.274979+00:00",
+      "price": "$73.88",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQMBf2WHv-d2Vm5ePaRjIwyZVtMYaaoExSmeLYu0t_9aY1jhSd99zNq3Cwg_nFXnEuScSm_I9wdexpYkXq71VQND-ZXu7p3kMbFsG3d1IHeEKS4E-VCwmeMWCyAHm6fCvwB8SrPRYoMTrMJNd5AyCgwe7frFYKeMSGbIWn4eoaOwNt1XygaQNhFLwU3UAkzvSk3cMhiu4KBuD-Udo6K_5XDFoCW5OXCqFaRTIyKzkq1_9DnqpvBNghuuGHcZUZoNLJg.2GeaLoA1QWa-pUrfr3B_oEOroJAmhOjcQRMmIUB13uM&dib_tag=se&keywords=pokemon+tcg&qid=1787493801&sr=8-1": {
       "last_checked": "2026-08-23T14:03:23.689218+00:00",
@@ -2114,7 +2155,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjkBtZKs5_V_6-htDs_fnDRrgRup78SDptEU8UtD8ejHXouiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7NbJVxwxCjIslLdaNEmPJpjDUw6atuGIjEBxibgRd8S3XVmm12hhEbsKXH2SfRzZ6KlI0wkMbAqIIMciYP5t4jRi7DW3VlXM7YhXtC2S5Zjg.JdVoWvJQzuuYt1X4mO0brVdvIuLLXLYg-VlWJAyHCFQ&dib_tag=se&keywords=pokemon+tcg&qid=1787304053&sr=8-1": {
       "last_checked": "2026-08-23T10:54:46.334707+00:00",
@@ -2124,7 +2165,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQONRPGt8zb476EUVSwmdAKqFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23LvnvCSk1siMThp0PNSVt8NkNXHGg-c6LwYBREMDzCpc1WF0emg7HqakliqQcX0QWDjOE90-sqd87M220kL9Ew_Hx5eGJzVPU3drPD-3KlWfKWfKXlmpku_WhQVnXICSM8jx7wl90IPdOHltxtJTRxBr69SL1zdbI-VSTV9EqZKMDcRaSUeoro1MHW9NIAPCY.YCs3v1bjpk2BM-6L0UU4rc_ufiW8TKrbkQF3WTSMh0c&dib_tag=se&keywords=pokemon+tcg&qid=1787420606&sr=8-1": {
       "last_checked": "2026-08-22T17:43:27.904388+00:00",
@@ -2134,7 +2175,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQPBViVdBRTqPDgsZUi_B_6y45QtlfhZ-i99WreY-4kgATifRHn_CNpLMupPKS1h4aCk9b8malBPJz_lJMoSyIr2cJ4RuoUZQ8K-mfH7LSGtOe7mEsDMfnHDVVeWJINzPAHLzA3eE6P9FxCDxYs-eujVljvOtB42R1PCKSHcTLdtXiyIlnXwtviRJduf8W5P9rSZ0FyhfgXaVIZHL3cD1BI4giNcKahpEUKgWHXMNI6o8Bi7DW3VlXM7YhXtC2S5Zjg.hZ1Icfw2740Cy7gLWZmRdoQhIKTQj3bU1Ixbd0Uux98&dib_tag=se&keywords=pokemon+tcg&qid=1787491341&sr=8-1": {
       "last_checked": "2026-08-23T13:22:23.359919+00:00",
@@ -2144,7 +2185,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCchlqtqERQn-M-QZXvA91pcm8BsXD0xA_yfNsqenx0pV8LrC5MEaCgxcYH_sCOKWOBFm2YGSGH6dh8_8VnHyZcOa2v_r-CDxR-sqAHhtCELdJIPZ0JBTxgsbKEk9xkL0iLl8RJisP8n-PBH7lSmAjZe_H2TbkiRrgtbuLszHMP0RWq9Cv6PmyHhaDWbDYoQCHC2CWoDVKIFWMWZ_Rc2Hyuq4iakGaO9nx95jvR1alAtpUHxDH6-dLvApkwof8zaugN_KbMNM4t5bIQAr_C4n-JA.eGEnaZYd-iyG6xdFuXKtMuQbNNxgOky05MMAI_e8boQ&dib_tag=se&keywords=pokemon+tcg&qid=1787263249&sr=8-1": {
       "last_checked": "2026-08-24T05:27:20.776290+00:00",
@@ -2154,7 +2195,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCchlqtqERQn-M-QZXvA91pcm8BsXD0xA_yfNsqenx0pV8LrC5MEaCgxcYH_sCOKWONHRBnklktjla0s4GC_RWhiw4ekXkzfShTV4rBst5XqGw5gKvo9vcKoYkAH_SDJsle_Zeao5WEUFoJ-ghTu83hVk666N4quYYsEY_tBAO39iFmTLQK57rmHhVSpcGKb6fkA0LKwVlLWQvNfQ_RI6wW0RcTH_7bzRGsQ2_zED3dgZV6XVTWststzuf9qE3kVIxt69GCecRfbvdefmxNowDdE.lEe3rfRwK1n2j4OgEaAnurSLrpl6gFRB3ij3LPnE5O4&dib_tag=se&keywords=pokemon+tcg&qid=1787270172&sr=8-1": {
       "last_checked": "2026-08-23T06:01:58.607613+00:00",
@@ -2164,7 +2205,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCfilvcYEqQ22fTO2X6GvGCfAb55L-qo8mobkbRFKJsyRSwbT5RWv7uy4xKWdmiRNQw9Yzq2O_fxC-yjhuHUpYbRBefMwVK5FTlDxiPtzjJZQ4IsMKVPwRg9eAtOE2LneWl5p4tvDUOGGoDBYptRT-RwKpZdZVHeuRS2FChfnIkozSvIM5Be_D42nUFMuJn1vvsas3tt81GBf6xJKIoWJubhxDubtAOYDC9kqTYHHbF1mQ1G7tNlLVyOtbDzyXQwXL3g-CupYqzBoXYkModaZ90c.oQ9Wr9vvSwf7gGhN6CsTZmpDzRagLOCFqTHjaD4OWm4&dib_tag=se&keywords=pokemon+tcg&qid=1787313483&sr=8-1": {
       "last_checked": "2026-08-24T11:49:08.230757+00:00",
@@ -2174,7 +2215,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.2ahs4OKbkA6-z2gln55WSXQysVS42skEpOEbkhz6M7c6RFzF0Gxj37fn_TcZ2fDButhyEttSv7KjIa92SH4qmTifRHn_CNpLMupPKS1h4aAPIOZYaJmRxBrh1Kxa2JChiW9jaeMcJdoNYG017_j8xHJJWsYnLS0sqvQ8R-3itGlvpvRarpmpSgKaqqTZ__Mb8K_2b55fL2xMFMrjjhf2P8iJ-soQErafvAgFxdNGpupNMhOrf0cgNloGfSrWCTU1aaRcVLdV7Ri__3hIA7JJmNmPHiMfoA1f5AjjkcKYDCA.BH2UUlLVXPbNayJFQevdrGhtL9EKvNeFOQsK95Te_pw&dib_tag=se&keywords=pokemon+tcg&qid=1787549201&sr=8-1": {
       "last_checked": "2026-08-24T05:26:46.872855+00:00",
@@ -2184,7 +2225,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.2ahs4OKbkA6-z2gln55WSXlbxJWFgc7GJdiqLTUByd1iD6IoRYrqHvSzkOP-jdgDkxibCORDN8VXh0XqFF6tWq3YjXpvcbAOkXvZvQDeIxX3uiafvahepRsNar6GOVxE_vGbJJDPsnbsYCZUm609my4E-VCwmeMWCyAHm6fCvwDZr26u2eOfuZ1WgxjIo4mZFmTLQK57rmHhVSpcGKb6flAHA63bFrEXtS3P9f9i9viLT3jUNuYJ9aTSCS5YDOvfectrJvxAKUc5X9frZN7TaJN1QqPpdGeYMsVPN0y_-a0.S9Q9_7gt-K1iv4qKRgtOXyXVuYzlnZSRTuISDjRGZ-Y&dib_tag=se&keywords=pokemon+tcg&qid=1787593902&sr=8-1": {
       "last_checked": "2026-08-24T17:51:43.916522+00:00",
@@ -2194,7 +2235,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.2ahs4OKbkA6-z2gln55WSXlbxJWFgc7GJdiqLTUByd2pGS8zowcbykGrFAk9dmuwgjQEETfLVRCtAhJr3X2h9k-K2vXJjuX4a4hilWP_8n3vsF6rVHP7RGkeYFsZbtJe2UDWA6174UToAfSsOzsYKZ691BM9f5x7OrY3yfKlXU6j30d6CVNHmwv_C37v0DHfSvIM5Be_D42nUFMuJn1vvrgZAQGq2k_0rNHf4RiQ0MuS1iCFio05j3X92j3tchR0r5G9s0jmhkz0onbpHcMOrnCIdamHw2EwAbLMVWT8QhQ.JRKmQaGSv0TqxjfLmP5CidiToXGqUwTkBErgno4bMXY&dib_tag=se&keywords=pokemon+tcg&qid=1787514436&sr=8-1": {
       "last_checked": "2026-08-23T19:47:18.742057+00:00",
@@ -2204,7 +2245,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PYBf2WHv-d2Vm5ePaRjIwyZVtMYaaoExSmeLYu0t_9aY4J6v2pCGo3CaQ_DDq88RLRCBp01FG7W88ABHj5CMiNjZPvibAxZiEwHrcyov1w4BJDgPUn5Q3FiWcLICbophNeqqKlqxjPoi81sEstKIU_6YfX1mBld24JWMKbc3THvlMJFgfZGjGX4-Wrsc_lfhxwvlVttaISz1rkePY7RXvjT5ylOfBTErog-lrPtg8w-2JBa_01vJKPh7qcau3Uv9sY.2ijBdN0Mj7i53pogx1FgsylN872rd0bS30gMvXhlK_g&dib_tag=se&keywords=pokemon+tcg&qid=1787442017&sr=8-1": {
       "last_checked": "2026-08-22T23:40:20.585621+00:00",
@@ -2214,7 +2255,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&dib_tag=se&keywords=pokemon+tcg&qid=1787283088&sr=8-1": {
       "last_checked": "2026-08-24T11:49:05.644779+00:00",
@@ -2224,7 +2265,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRKkUL_uqiJt56800-y0OryS4AfmOcg_ZQ9GlxhmZ28x_IdK3PH3JpdDRyBRzqlwH5Wdiod7z04rDWTza6XhQPoWRo-dMM5Npuay-jVXrUCSU3WHD6a4TD-9d92606Igh61wCFADuJV9EwZCPS11DZXECDBKXUrbKpATGGc-a64wkBeklHG3wPUkEYXvPev7GwWxN6ldWSHMKBu00bNYkpqYYSyNbqILzZjgWVWp9gh5s.OG4tOC577XlEC7EQNXqjw8zAaZSf3iQ1EJwlAUty5ME&dib_tag=se&keywords=pokemon+tcg&qid=1787504162&sr=8-1": {
       "last_checked": "2026-08-23T16:56:04.213947+00:00",
@@ -2234,7 +2275,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7Lc-RtVyUKTiYZGHXrvEHM1c0sBdChQwiUc9NtvOP9EeOtKNJvHgn5ROKpc5rBB-_YfW59KfEfXK6YX2SqjKZjf4Qpf_6RXXEVa47Gy9tizHU2FlyqcUuJ0lpdTcFIRA3yJ7IDS5DeH65IawEF2wnYNJr6Tq4c0GiTKZ29_kO41UusDBqQgo4HkeZZF1kaHi5KdAr7Cr8lHvFKv2oA4MVLSZ0FyhfgXaVIZHL3cD1BI4ege2KtwKMh814PDeY7SrWnCIdamHw2EwAbLMVWT8QhQ.PF8ubrC__8DykVsKBGdKanh4ToZVf_g6ryOobj_mfqI&dib_tag=se&keywords=pokemon+tcg&qid=1787455919&sr=8-1": {
       "last_checked": "2026-08-23T03:32:01.285977+00:00",
@@ -2244,7 +2285,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7PqvEBtCpo2Nv2tqItWbcRfBViVdBRTqPDgsZUi_B_6y_HpIS-MmTYOoQdNjr73Ai4aD7BCjbaAGhYNE_BiXi9dNQ3pmIg2IPye2elKoRM-x4fQLCnb9UIXF6W7MrmAcejxgec4hHwcnxdPaFn8KFbNsfLAd_XaaeJNES9c-eNkKg3QBl5EFN-m5YapJ624R3I90qK8kOHBNTiPrnb97RoMG5GyyJSV43HKn9A9PUZkABt2sSLo3MVjgH7_-UTeziYGIV5KhWXDIUpZ_RJkrDNo.JVMeEvkJWxTihAqRP9OjyLr2MvRLCyZ2aPQuY2Epakg&dib_tag=se&keywords=pokemon+tcg&qid=1787309893&sr=8-1": {
       "last_checked": "2026-08-23T19:01:34.001256+00:00",
@@ -2254,7 +2295,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7PqvEBtCpo2Nv2tqItWbcRfBViVdBRTqPDgsZUi_B_6y_HpIS-MmTYOoQdNjr73Ai4aD7BCjbaAGhYNE_BiXi9fqxCKO5kSPa3zhWeFpnMDpEwRgJyryKn6kmGVSCZiayzxgec4hHwcnxdPaFn8KFbMiQjKHaEJtGJabXGg6GfS7VNTV7FK0Ec3QvbpiaJ2AlOtxqWEoQWK1qZesbBZTZ6kGlBLzKFdcvsSq77zqgaXXlP1BChPt3qxj2_O-OgQdoOVfJr4vYjU60uFhkVnnkbE.RhD-Q7WZm5Q6CLpZ4aw3z5ysN5Zr38_wHu4E9RB7mPE&dib_tag=se&keywords=pokemon+tcg&qid=1787289454&sr=8-1": {
       "last_checked": "2026-08-22T19:02:18.724854+00:00",
@@ -2264,7 +2305,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5Rs4QGsq6uLm6_TDKm0WYtXOIQwa_lXdusq30KVu2Nlo1d5JPEjsO_H4WI34X5ebs_GxYymWeBtf_mfhNkoERCJNNDM6TQfkTIPRsWW5EGYdLaWav8Zbquyf99-b2DNHI77AeeeX6FXCuM6611X-L--IHRU2qfTePZE1BHV_LJNZ60BzTD-O_3qsAuKtbxt6nJgg8vOnhqNhlLVMk760u-UKg.WQIF84cFGktzpelk7eVTmvg1qWviGHX7W2kqKIuUYVc&dib_tag=se&keywords=pokemon+tcg&qid=1787482456&sr=8-1": {
       "last_checked": "2026-08-23T10:54:18.019341+00:00",
@@ -2274,7 +2315,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-1": {
       "last_checked": "2026-08-23T05:05:13.499779+00:00",
@@ -2284,7 +2325,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU4p6gFP6Z3iCS6X6jFVbj-jQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl-lmC0756Qw1RYmhSAj_fKFDM6TQfkTIPRsWW5EGYdLa19GYPfVaHrvnNdc6yl4BUms4QXoHF8SfNC6ktHrUyVE4MQqhOxFPCnpJDgWxMu442jHYWZS6uxjCaP6jld3u-5K_NfEHymt3qHIlwi6EpFo.LnDxR0BOv8iuIWm19bzWj0IfgwZGEPwDEM2mlEWiQ10&dib_tag=se&keywords=pokemon+tcg&qid=1787518242&sr=8-1": {
       "last_checked": "2026-08-23T20:50:44.205401+00:00",
@@ -2294,7 +2335,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRhMhPOoRIF3mM5QvPNcefRDOawr3bhRx33MwtJaEu9E-TjM5fXYB-5YvyDJ-cMYeUQwa_lXdusq30KVu2Nlo1dEyg9EyDVIqUwVJBFOUSrB8u2_HFj_W1SHJIhhUc1EJwuNMTwuQnoRjGBbBgOEtCbxZCNdfNlBEMgRg5KY75elcc4gXm3G6Jc_2hl3Ho6m-4tP65zr9KJ_dnlrmp8HmGd6xh1b45msADhuyzlG-wsWcDcRaSUeoro1MHW9NIAPCY.2TB66g0piJu-R1tGAmePjqMcnreEk7IdYzXBOQ5uNBU&dib_tag=se&keywords=pokemon+tcg&qid=1787471404&sr=8-1": {
       "last_checked": "2026-08-23T07:50:05.667046+00:00",
@@ -2304,7 +2345,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&dib_tag=se&keywords=pokemon+tcg&qid=1787434960&sr=8-1": {
       "last_checked": "2026-08-22T21:42:42.634159+00:00",
@@ -2314,7 +2355,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZumXllIEL1zWOqZRRq-1XSmpCBp01FG7W88ABHj5CMiNjtfkhz1LOToO303UFjGZYzBgClTtUt6k1VqTTZ7AoE8R44HpwQeMLA7e0qE6K8K3RXPIKxj1yeWWYT1sVyH4KdZC_1S_KfowLXfNzKgg3Fcd8UNuy7g1xSzRNzARFsn_eo_rDRsAq1goDdRzrPo-QU8ZkPQwkF4OYUdzmdXPArJk.RmxP5VwqGbEix8ZswrCqHoIRm9fSRcevEzax-75o5ks&dib_tag=se&keywords=pokemon+tcg&qid=1787485460&sr=8-1": {
       "last_checked": "2026-08-23T11:44:22.382641+00:00",
@@ -2324,7 +2365,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1_mod_primary_new?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjnIZVdlptm9rVlwUu2Rf6Qya8RRJokkC2teL4jZNLjPTP9huXkEzE-QsLlSSYMIYL8IsbA5suBsVgcUWf1h96pZPWadFv6MRKgfkfx0aJjoZah3CZeDJXdH7vbNX6j19LPpx6o1m1v_UPhxbEm2p36VLXLOx1RjYTBi3OJN4Es8gn1d_BHcQNcvsdJLxc8WI3U.voKbvyvQT-VU7UYDOG6D0RHPCj_7e39VCbv12Tm60X4&dib_tag=se&keywords=pokemon+tcg&qid=1787410442&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-1": {
       "last_checked": "2026-08-22T14:54:03.984875+00:00",
@@ -2334,7 +2375,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_1_mod_primary_new?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRKkUL_uqiJt56800-y0OryUuMvktVuW_h4vPCYMxtxpBwp5pHfu_vZmvkdszV5bpe0uJIrF16CdHo50eIXhWn_6igYMoesbzzsSlmoTNoFMRU3vsLNxR0kw6cFhB9n464ljvOtB42R1PCKSHcTLdtXtBOu86DqS7zeVYKr6XnlMPlwj05HsVdwxtuj443X_eIwi1K9xINs8mTDdkgZ-fIEjnqpvBNghuuGHcZUZoNLJg.V-KcoAncUpejSW-Mfj4Xmh0nCQGyXoFIFVHp-WpLCt4&dib_tag=se&keywords=pokemon+tcg&qid=1787425326&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-1": {
       "last_checked": "2026-08-22T19:02:08.751451+00:00",
@@ -2344,7 +2385,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_2?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PkJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt8w5gKvo9vcKoYkAH_SDJslVMvEzzsXYoAKJcBbZAYmA0EpmYU1d-_49dInMHQFUQxYYTrmSwiIIDDkoBDK_NsYWs4QXoHF8SfNC6ktHrUyVGP1_j1gMfUbSzRfFADffhHB1Lz-SvzYsCtcQtpMrRT7N_KbMNM4t5bIQAr_C4n-JA.SI7ts3pq394LQC47h_BkjME-tuGG0GR6Jsh32-NCtXA&dib_tag=se&keywords=pokemon+tcg&qid=1787525654&sr=8-2": {
       "last_checked": "2026-08-23T22:54:17.346484+00:00",
@@ -2354,7 +2395,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_2?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PkJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt8w5gKvo9vcKoYkAH_SDJslVMvEzzsXYoAKJcBbZAYmA31P0fOtmSm2KuK3D4DdPXC19GYPfVaHrvnNdc6yl4BUp1D6bfLm9VGLedT5GxC7Uhw9zTju_ZTlXRO3ZjdxASZrrK3T08PYeZ8Ny0TEMnngIGIV5KhWXDIUpZ_RJkrDNo.cJex-338vLgXum8b8OyBgS5WFuS3M4lBk3DJg5hifZM&dib_tag=se&keywords=pokemon+tcg&qid=1787521289&sr=8-2": {
       "last_checked": "2026-08-23T21:41:32.113811+00:00",
@@ -2364,7 +2405,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_2?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PnVKj4SQJHjUv46UKammiz9GOu7kteyU3_1pmoPJh_kCrnriqJo0XSt3m4g0VX8vTYb79gZ6MDo23wpQneIYv0MXKEFgPLlN4U2P61O71-Nk4uiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7cON4vYEtS-qDrA8rdUmDjo3Ra6CswWq17ncLn5MASWQTlF7MG2WfCBSDT5m4e-h1WOSfYxHEzrWPiog20qMbm4GIV5KhWXDIUpZ_RJkrDNo.vZXwUE0O4W2GKMoLpMbNtgxOYrdz__FkvnphmVGtHkE&dib_tag=se&keywords=pokemon+tcg&qid=1787528608&sr=8-2": {
       "last_checked": "2026-08-23T23:43:31.278728+00:00",
@@ -2374,7 +2415,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_2?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSO7u6RLPpwK_sEamRgeWJt7Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcoWtKrhjBCDY_ysxGt95BocNsoqYhFHU78J9De7CQio0CmYsCT2dXcqfj8im7J5uu5LpIOEXWAMCMmyXTxMq55UMzmp6UE6Ed85U--7noDg7_pRQMvWWAt0eVBqA39JqWQrnwjmtDZKOsnknHf6NgVKUy8V9yY1qUxKgQoN3AIsw5KvoKZNR5YOtx5-tvGOQXYGIV5KhWXDIUpZ_RJkrDNo.HNZNWnoy2l6q3qClBZnZHXxHEqHmwsrzJnn5DJ8WGeo&dib_tag=se&keywords=pokemon+tcg&qid=1787507024&sr=8-2": {
       "last_checked": "2026-08-23T17:43:50.516950+00:00",
@@ -2384,7 +2425,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_2?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSPORxtySDp9ffyad6HJpNzFnJ7G2DH_RP2bWKqq-73TDLSe5vr1KFEpvMEf4aZcZuljhSd99zNq3Cwg_nFXnEuQVCFehwmGKQF7K96oL3ddNCmYsCT2dXcqfj8im7J5uu5LpIOEXWAMCMmyXTxMq55UiQjKHaEJtGJabXGg6GfS7v6C-o2mA8jrzZU058mp_9Cv-AOwh2Iti0cbzN6hhjNctP65zr9KJ_dnlrmp8HmGduQ4uD0qnkcA-RR6vcgShJt69GCecRfbvdefmxNowDdE.RCB_kfBuiTnq_y4Grzqdj7h90YIUutQmk2RBBbmxdYU&dib_tag=se&keywords=pokemon+tcg&qid=1787475688&sr=8-2": {
       "last_checked": "2026-08-23T09:01:41.100997+00:00",
@@ -2394,7 +2435,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_2?dib=eyJ2IjoiMSJ9.UTmbvWsHu01ZV-WzmoLzkGzV8rELSN0qlgeekOMMKmsJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt86shuG7W_-jWmOsfaVC6ig0Z4Yw-PAu_NutTf-ELu70wVImor9uLyi-XZa8Y4x9p219GYPfVaHrvnNdc6yl4BUsUy-hpiyyjx8riNSSElya87qyjo-J7W7kPvSYTsSN6JijgfHoBz0XJo5uodlXFQ-Y6YsIfstD-KtsTu0uyL9Ec.mFjNNsYdRGKjr_BxdEwvYb6wHu4wD43KDpOi7PnGb3Y&dib_tag=se&keywords=pokemon+tcg&qid=1787542334&sr=8-2": {
       "last_checked": "2026-08-24T03:32:16.409635+00:00",
@@ -2404,7 +2445,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_3?dib=eyJ2IjoiMSJ9.EyF1lJv0oxFgjE_C5TVu68g9_D97mK_Y6G_NHDmRDC0JY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJAVyhERamWdJb6AlqnYBGPG_CW9jIvALioSlWKKporKScJ4RuoUZQ8K-mfH7LSGtOYuiApSRhwVfEmA1gca0jvuDjOE90-sqd87M220kL9EwmFUfPAa2g8m3SOa2gfkxr9VLwhE97pml6opLQhHJd7HIGAqCjaqlTaa2Um3kEpCBSUFfKqKLvpVOhMv4WYFjOoKJMmL8YxGXcG1F7_ewXp4.tdfxOeFxzq3aNWytWsBqcmUKHgPE0YG5IT8BYWqvl10&dib_tag=se&keywords=pokemon+tcg&qid=1787522496&sr=8-3": {
       "last_checked": "2026-08-23T22:01:39.286014+00:00",
@@ -2414,7 +2455,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_3?dib=eyJ2IjoiMSJ9.sVeyF9HemlXZsA13AzFsgifgtYwFDbPD8XmcGwZyVdNVw9rdGJjm4OMvMMsw8dv7g2o8wdkw1XKMfWlQ1JvsYcTvpY_wXd-sl7V4-oT4ZjoNsoqYhFHU78J9De7CQio002jAa5TyjTkVd9Qx7qbHp1MvEzzsXYoAKJcBbZAYmA31P0fOtmSm2KuK3D4DdPXCmFUfPAa2g8m3SOa2gfkxrxvaI4S0cGyDTQnppfigGwNjU6KQ9m_OO8LxJJlwCybqcUuTB55U4LwHllPHWVIv-969GCecRfbvdefmxNowDdE.YlsR-1kHGlYgScTXhkp3bk3eGga2m2jlCidmZRU0RuU&dib_tag=se&keywords=pokemon+tcg&qid=1787511658&sr=8-3": {
       "last_checked": "2026-08-23T19:01:01.787221+00:00",
@@ -2424,7 +2465,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Black-Trainer/dp/B0GYVHLP4L/ref=sr_1_3?dib=eyJ2IjoiMSJ9.sVeyF9HemlXZsA13AzFsgifgtYwFDbPD8XmcGwZyVdNyaVMfRc79rff6IzdqVxwSSnu7FwqiIy82wtVNjMXckidexzuEAYt67_-nFNu9nOQ4QTv6t80V5Dr5rLZ764k7EAdFMC9X9FaNqyei52LBjC4E-VCwmeMWCyAHm6fCvwDZr26u2eOfuZ1WgxjIo4mZVyayclk0ZM6yRcQzbnycsSb-TP9JP20z0juXpGncj-yYldE-pzyst2nLl3vapZ68v-ZiAoxOK4KaGtKm-VPo0oGIV5KhWXDIUpZ_RJkrDNo.IU1lkHa-gozb8S6mjq21q5_gYRqlocEFsAmL3Q83W9Q&dib_tag=se&keywords=pokemon+tcg&qid=1787566961&sr=8-3": {
       "last_checked": "2026-08-24T10:22:53.682010+00:00",
@@ -2434,7 +2475,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "TCG: Mega Evolution—Pitch Black Elite Trainer Box"
+      "title": "TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Booster-Bundle/dp/B0GYTRYV7P/ref=sr_1_1?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PnVKj4SQJHjUv46UKammiz9GOu7kteyU3_1pmoPJh_kCrnriqJo0XSt3m4g0VX8vTYb79gZ6MDo23wpQneIYv0MXKEFgPLlN4U2P61O71-Nk4uiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7cON4vYEtS-qDrA8rdUmDjo3Ra6CswWq17ncLn5MASWQTlF7MG2WfCBSDT5m4e-h1WOSfYxHEzrWPiog20qMbm4GIV5KhWXDIUpZ_RJkrDNo.vZXwUE0O4W2GKMoLpMbNtgxOYrdz__FkvnphmVGtHkE&dib_tag=se&keywords=pokemon+tcg&qid=1787528608&sr=8-1": {
       "last_checked": "2026-08-23T23:43:30.341082+00:00",
@@ -2477,10 +2518,10 @@
       "title": "$39.99 $ 39 . 99"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Booster-Bundle/dp/B0GYTRYV7P/ref=sr_1_1?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzWkX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl3Uyt2C3flsM5k16QW74jZzrLqDpshH4VuTE06XK3qvOY5wIYK5wx4cbwnN061V-0pxt2V3pkTMyvKoNFMXVBPgQ0KyHpeBSVKoXSp8KluVA5aVwHd6RyVYmxMBvNbIVZR-S9k7UPkTm1w-Y91gjO0s.BdyPPqEeuIWOTKjRvdjNdb7UTCjAVh2B-k8NDMv5pRw&dib_tag=se&keywords=pokemon+tcg&qid=1787327637&sr=8-1": {
-      "last_checked": "2026-08-22T13:21:34.728868+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:37.470707+00:00",
+      "price": "$44.43",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -2617,10 +2658,10 @@
       "title": "See options"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Booster-Bundle/dp/B0GYTRYV7P/ref=sr_1_2?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCaDIi6sDUjjkKtXSVeHLs57Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23VyXvZHRy9MPbKtgDUGDbkwSpW3pRFGDQ7cmwSZ45jjaigYMoesbzzsSlmoTNoFMStNBJddwIknbb5dOB4iXgz_J-uMSvYGC27H-Cm3dihLIjUGfdvEmIpwY2lqDSAELrIeRtEjXhqJj-fXUS-m7-OQomCCk0-8H-DFUiGFg0d-ZN1QqPpdGeYMsVPN0y_-a0.dVe4etqIikMeZRI7ux2BnF0ifgzL_vr2xqcGrkbWbgo&dib_tag=se&keywords=pokemon+tcg&qid=1787407194&sr=8-2": {
-      "last_checked": "2026-08-22T13:59:57.605514+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:45.590308+00:00",
+      "price": "$44.43",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -2634,7 +2675,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "CLP 31,972 CLP 31,972 Typical: CLP 36,546 Typical: CLP 36,546 CLP36,546"
+      "title": "CLP\u00a031,972 CLP 31,972 Typical: CLP\u00a036,546 Typical: CLP\u00a036,546 CLP36,546"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Evolution-Pitch-Booster-Bundle/dp/B0GYTRYV7P/ref=sr_1_2?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjkBtZKs5_V_6-htDs_fnDRrgRup78SDptEU8UtD8ejHXouiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7NbJVxwxCjIslLdaNEmPJpjDUw6atuGIjEBxibgRd8S3XVmm12hhEbsKXH2SfRzZ6KlI0wkMbAqIIMciYP5t4jRi7DW3VlXM7YhXtC2S5Zjg.JdVoWvJQzuuYt1X4mO0brVdvIuLLXLYg-VlWJAyHCFQ&dib_tag=se&keywords=pokemon+tcg&qid=1787304053&sr=8-2": {
       "last_checked": "2026-08-23T10:54:51.513670+00:00",
@@ -2924,7 +2965,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "CLP 40,151 CLP 40,151 List: CLP 54,879 List: CLP 54,879 CLP54,879"
+      "title": "CLP\u00a040,151 CLP 40,151 List: CLP\u00a054,879 List: CLP\u00a054,879 CLP54,879"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0GW2DK37Q/ref=sr_1_6?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjkBtZKs5_V_6-htDs_fnDRrgRup78SDptEU8UtD8ejHXouiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7NbJVxwxCjIslLdaNEmPJpjDUw6atuGIjEBxibgRd8S3XVmm12hhEbsKXH2SfRzZ6KlI0wkMbAqIIMciYP5t4jRi7DW3VlXM7YhXtC2S5Zjg.JdVoWvJQzuuYt1X4mO0brVdvIuLLXLYg-VlWJAyHCFQ&dib_tag=se&keywords=pokemon+tcg&qid=1787304053&sr=8-6": {
       "last_checked": "2026-08-23T13:22:28.829837+00:00",
@@ -3764,7 +3805,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59eMhlqtqERQn-M-QZXvA91pepdar6zd7Y9eANc0rram6f7OUm6H8ZlNzO5a230obYpYr6NokUE6ncIwSAcNWcB9thHNduUiM9drZPujEu8iieZPvibAxZiEwHrcyov1w4BM1WF0emg7HqakliqQcX0QVKHV7STqNTWxyIVqQnReJqW0zfSdkZCtxaXxKbfQikvyLgrYC2-Tz_DKEG_ApBxNLQBpmKNRd4rrUaroqTrldE9xaib5FBPIhnnkBClIwqAfb4O3UD_mk_CK8Zt8tg724.dfgr433cDpIqym42rgFSmQlkoHlTSKxgB01VlaNI-lY&dib_tag=se&keywords=pokemon+tcg&qid=1787345658&sr=8-1": {
       "last_checked": "2026-08-23T03:32:29.965014+00:00",
@@ -3774,7 +3815,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59ePilvcYEqQ22fTO2X6GvGCfBViVdBRTqPDgsZUi_B_6yf6IjX7cP9SEampvvQFGN0PNkHjFBtXXAbHiQ45nqI4LoK45tXIEiwMLqu6bgmCu2_vGbJJDPsnbsYCZUm609my4E-VCwmeMWCyAHm6fCvwDZr26u2eOfuZ1WgxjIo4mZSPRvJPxx6IT5yVLzsIg15Tv-vEVLpHr3EVUytAfdCLr4afkPeKRME1Ojq93Q_aTtEtRIrIrrvsLIVEOzgTUDh46YsIfstD-KtsTu0uyL9Ec.iUBFyCP7r7hdGLxVx_mV8Zv2ojqlaCqJipPxRbSPE4k&dib_tag=se&keywords=pokemon+tcg&qid=1787368086&sr=8-1": {
       "last_checked": "2026-08-23T13:22:33.728978+00:00",
@@ -3784,7 +3825,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.t2gIKdCjRpP6QY6hag59ePilvcYEqQ22fTO2X6GvGCfBViVdBRTqPDgsZUi_B_6ywC5D8Sz8kXER3uPWr_Bk_1jhSd99zNq3Cwg_nFXnEuToK45tXIEiwMLqu6bgmCu2_vGbJJDPsnbsYCZUm609my4E-VCwmeMWCyAHm6fCvwBBnIxD3aFOlgeKRGkuGCZ7_J-uMSvYGC27H-Cm3dihLEmX8T4kx88-rewpovT6XcwG5GyyJSV43HKn9A9PUZkAV5EAExjCfXEMgxuzbXv_hTnqpvBNghuuGHcZUZoNLJg.47DJry1Zf_1J35LV41TNQH-li3t_gvN2SfvktsfUk8g&dib_tag=se&keywords=pokemon+tcg&qid=1787389359&sr=8-1": {
       "last_checked": "2026-08-24T05:27:25.918088+00:00",
@@ -3794,7 +3835,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PYBf2WHv-d2Vm5ePaRjIwyZVtMYaaoExSmeLYu0t_9aY4J6v2pCGo3CaQ_DDq88RLRCBp01FG7W88ABHj5CMiNjZPvibAxZiEwHrcyov1w4BJDgPUn5Q3FiWcLICbophNeqqKlqxjPoi81sEstKIU_6YfX1mBld24JWMKbc3THvlMJFgfZGjGX4-Wrsc_lfhxwvlVttaISz1rkePY7RXvjT5ylOfBTErog-lrPtg8w-2JBa_01vJKPh7qcau3Uv9sY.2ijBdN0Mj7i53pogx1FgsylN872rd0bS30gMvXhlK_g&dib_tag=se&keywords=pokemon+tcg&qid=1787442017&sr=8-2": {
       "last_checked": "2026-08-22T23:40:26.291505+00:00",
@@ -3804,7 +3845,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&dib_tag=se&keywords=pokemon+tcg&qid=1787283088&sr=8-2": {
       "last_checked": "2026-08-24T22:59:04.553636+00:00",
@@ -3814,7 +3855,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRKkUL_uqiJt56800-y0OryS4AfmOcg_ZQ9GlxhmZ28x_IdK3PH3JpdDRyBRzqlwH5Wdiod7z04rDWTza6XhQPoWRo-dMM5Npuay-jVXrUCSU3WHD6a4TD-9d92606Igh61wCFADuJV9EwZCPS11DZXECDBKXUrbKpATGGc-a64wkBeklHG3wPUkEYXvPev7GwWxN6ldWSHMKBu00bNYkpqYYSyNbqILzZjgWVWp9gh5s.OG4tOC577XlEC7EQNXqjw8zAaZSf3iQ1EJwlAUty5ME&dib_tag=se&keywords=pokemon+tcg&qid=1787504162&sr=8-2": {
       "last_checked": "2026-08-23T16:56:05.086710+00:00",
@@ -3824,7 +3865,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7Lc-RtVyUKTiYZGHXrvEHM1c0sBdChQwiUc9NtvOP9EeOtKNJvHgn5ROKpc5rBB-_YfW59KfEfXK6YX2SqjKZjf4Qpf_6RXXEVa47Gy9tizHU2FlyqcUuJ0lpdTcFIRA3yJ7IDS5DeH65IawEF2wnYNJr6Tq4c0GiTKZ29_kO41UusDBqQgo4HkeZZF1kaHi5KdAr7Cr8lHvFKv2oA4MVLSZ0FyhfgXaVIZHL3cD1BI4ege2KtwKMh814PDeY7SrWnCIdamHw2EwAbLMVWT8QhQ.PF8ubrC__8DykVsKBGdKanh4ToZVf_g6ryOobj_mfqI&dib_tag=se&keywords=pokemon+tcg&qid=1787455919&sr=8-2": {
       "last_checked": "2026-08-23T03:32:03.139472+00:00",
@@ -3834,7 +3875,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7PqvEBtCpo2Nv2tqItWbcRfBViVdBRTqPDgsZUi_B_6y_HpIS-MmTYOoQdNjr73Ai4aD7BCjbaAGhYNE_BiXi9dNQ3pmIg2IPye2elKoRM-x4fQLCnb9UIXF6W7MrmAcejxgec4hHwcnxdPaFn8KFbNsfLAd_XaaeJNES9c-eNkKg3QBl5EFN-m5YapJ624R3I90qK8kOHBNTiPrnb97RoMG5GyyJSV43HKn9A9PUZkABt2sSLo3MVjgH7_-UTeziYGIV5KhWXDIUpZ_RJkrDNo.JVMeEvkJWxTihAqRP9OjyLr2MvRLCyZ2aPQuY2Epakg&dib_tag=se&keywords=pokemon+tcg&qid=1787309893&sr=8-2": {
       "last_checked": "2026-08-23T19:47:47.900339+00:00",
@@ -3844,7 +3885,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7PqvEBtCpo2Nv2tqItWbcRfBViVdBRTqPDgsZUi_B_6y_HpIS-MmTYOoQdNjr73Ai4aD7BCjbaAGhYNE_BiXi9fqxCKO5kSPa3zhWeFpnMDpEwRgJyryKn6kmGVSCZiayzxgec4hHwcnxdPaFn8KFbMiQjKHaEJtGJabXGg6GfS7VNTV7FK0Ec3QvbpiaJ2AlOtxqWEoQWK1qZesbBZTZ6kGlBLzKFdcvsSq77zqgaXXlP1BChPt3qxj2_O-OgQdoOVfJr4vYjU60uFhkVnnkbE.RhD-Q7WZm5Q6CLpZ4aw3z5ysN5Zr38_wHu4E9RB7mPE&dib_tag=se&keywords=pokemon+tcg&qid=1787289454&sr=8-2": {
       "last_checked": "2026-08-22T19:49:17.550929+00:00",
@@ -3854,7 +3895,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.vF65jUQ7sfQE-0c0EKjDS733bJJmlsJNj14atvjd1xlhMhPOoRIF3mM5QvPNcefRDDz5DCBq5rIOF5BvizIGCfUkFWmjotGquIfAfQzykhsNsoqYhFHU78J9De7CQio0oJNgf4A7U43x41sDxdOzQu7mEsDMfnHDVVeWJINzPAHLzA3eE6P9FxCDxYs-eujVwgcyeFR8fNOwie1LFx-4hlbhBjf9qAFoXDrSp2MbtRlL8OxuwNZYn7PepQmF4tmfcdeBdFvELzzPa8kGXYcSgX1d_BHcQNcvsdJLxc8WI3U.QOpUI8lVpeGAQxcM1hET-DSsZHgK0XY3GX0yGX4MM28&dib_tag=se&keywords=pokemon+tcg&qid=1787341976&sr=8-2": {
       "last_checked": "2026-08-22T20:50:39.938737+00:00",
@@ -3864,7 +3905,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.vF65jUQ7sfQE-0c0EKjDS7c-RtVyUKTiYZGHXrvEHM2gMlMvubdXzA5ytOfB4vv6DDz5DCBq5rIOF5BvizIGCV_73EVH8tjDKSIpLoNHkfj92Xq_9WtMpP56gNpLMLwcjktMoYVkwI4D22rqb29ravaG7WG2mdj5N0Ix-MPJ9Hi2gzfCzhlDf5k9v0yI4en2NVG0Bx0k1y3roPIQ0sSwdUQBFQ35ivsVPCWNpi31TdJZZGd3ezd5-UcIlCkBnOdaSYJSFbEmPNbNkFKWdByPaR-S9k7UPkTm1w-Y91gjO0s.2cur5I3J6AdAFGHFmzp7oH5J-O3M7rdI8puTEiFx4As&dib_tag=se&keywords=pokemon+tcg&qid=1787332484&sr=8-2": {
       "last_checked": "2026-08-22T16:51:50.270972+00:00",
@@ -3874,7 +3915,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_2_mod_primary_new?dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRKkUL_uqiJt56800-y0OryUuMvktVuW_h4vPCYMxtxpBwp5pHfu_vZmvkdszV5bpe0uJIrF16CdHo50eIXhWn_6igYMoesbzzsSlmoTNoFMRU3vsLNxR0kw6cFhB9n464ljvOtB42R1PCKSHcTLdtXtBOu86DqS7zeVYKr6XnlMPlwj05HsVdwxtuj443X_eIwi1K9xINs8mTDdkgZ-fIEjnqpvBNghuuGHcZUZoNLJg.V-KcoAncUpejSW-Mfj4Xmh0nCQGyXoFIFVHp-WpLCt4&dib_tag=se&keywords=pokemon+tcg&qid=1787425326&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-2": {
       "last_checked": "2026-08-22T19:02:09.587179+00:00",
@@ -3884,7 +3925,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQMBf2WHv-d2Vm5ePaRjIwyZVtMYaaoExSmeLYu0t_9aY1jhSd99zNq3Cwg_nFXnEuScSm_I9wdexpYkXq71VQND-ZXu7p3kMbFsG3d1IHeEKS4E-VCwmeMWCyAHm6fCvwB8SrPRYoMTrMJNd5AyCgwe7frFYKeMSGbIWn4eoaOwNt1XygaQNhFLwU3UAkzvSk3cMhiu4KBuD-Udo6K_5XDFoCW5OXCqFaRTIyKzkq1_9DnqpvBNghuuGHcZUZoNLJg.2GeaLoA1QWa-pUrfr3B_oEOroJAmhOjcQRMmIUB13uM&dib_tag=se&keywords=pokemon+tcg&qid=1787493801&sr=8-3": {
       "last_checked": "2026-08-23T14:03:25.760497+00:00",
@@ -3894,7 +3935,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjkBtZKs5_V_6-htDs_fnDRrgRup78SDptEU8UtD8ejHXouiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7NbJVxwxCjIslLdaNEmPJpjDUw6atuGIjEBxibgRd8S3XVmm12hhEbsKXH2SfRzZ6KlI0wkMbAqIIMciYP5t4jRi7DW3VlXM7YhXtC2S5Zjg.JdVoWvJQzuuYt1X4mO0brVdvIuLLXLYg-VlWJAyHCFQ&dib_tag=se&keywords=pokemon+tcg&qid=1787304053&sr=8-3": {
       "last_checked": "2026-08-23T11:44:49.862344+00:00",
@@ -3904,7 +3945,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQONRPGt8zb476EUVSwmdAKqFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23LvnvCSk1siMThp0PNSVt8NkNXHGg-c6LwYBREMDzCpc1WF0emg7HqakliqQcX0QWDjOE90-sqd87M220kL9Ew_Hx5eGJzVPU3drPD-3KlWfKWfKXlmpku_WhQVnXICSM8jx7wl90IPdOHltxtJTRxBr69SL1zdbI-VSTV9EqZKMDcRaSUeoro1MHW9NIAPCY.YCs3v1bjpk2BM-6L0UU4rc_ufiW8TKrbkQF3WTSMh0c&dib_tag=se&keywords=pokemon+tcg&qid=1787420606&sr=8-3": {
       "last_checked": "2026-08-22T17:43:28.992968+00:00",
@@ -3914,7 +3955,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQPBViVdBRTqPDgsZUi_B_6y45QtlfhZ-i99WreY-4kgATifRHn_CNpLMupPKS1h4aCk9b8malBPJz_lJMoSyIr2cJ4RuoUZQ8K-mfH7LSGtOe7mEsDMfnHDVVeWJINzPAHLzA3eE6P9FxCDxYs-eujVljvOtB42R1PCKSHcTLdtXiyIlnXwtviRJduf8W5P9rSZ0FyhfgXaVIZHL3cD1BI4giNcKahpEUKgWHXMNI6o8Bi7DW3VlXM7YhXtC2S5Zjg.hZ1Icfw2740Cy7gLWZmRdoQhIKTQj3bU1Ixbd0Uux98&dib_tag=se&keywords=pokemon+tcg&qid=1787491341&sr=8-3": {
       "last_checked": "2026-08-23T13:22:24.335724+00:00",
@@ -3924,7 +3965,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.2ahs4OKbkA6-z2gln55WSXQysVS42skEpOEbkhz6M7c6RFzF0Gxj37fn_TcZ2fDButhyEttSv7KjIa92SH4qmTifRHn_CNpLMupPKS1h4aAPIOZYaJmRxBrh1Kxa2JChiW9jaeMcJdoNYG017_j8xHJJWsYnLS0sqvQ8R-3itGlvpvRarpmpSgKaqqTZ__Mb8K_2b55fL2xMFMrjjhf2P8iJ-soQErafvAgFxdNGpupNMhOrf0cgNloGfSrWCTU1aaRcVLdV7Ri__3hIA7JJmNmPHiMfoA1f5AjjkcKYDCA.BH2UUlLVXPbNayJFQevdrGhtL9EKvNeFOQsK95Te_pw&dib_tag=se&keywords=pokemon+tcg&qid=1787549201&sr=8-3": {
       "last_checked": "2026-08-24T05:26:52.754209+00:00",
@@ -3934,7 +3975,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6Eza5x0lgBZVort9Duh0l4_zQrJ4hjgohWDAttrEoOuPcibHrjbkHwBEpHK5EbeXinmaIRxz729EzKrQiDONomJZqMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhlyJ7IDS5DeH65IawEF2wnYM5VqVjdsINElR22HEPNz4aMV-FFD_C3v51sUDG6_gOu0QBFQ35ivsVPCWNpi31TdKwXRL5KnFakIoSXEwi8EIEBUsqgUNdFKzvgBUFv3opFIGIV5KhWXDIUpZ_RJkrDNo.2ysGALDyWyn-T_oFAi-YiMQJQh2_pgtRGysnFuLa5kE&dib_tag=se&keywords=pokemon+tcg&qid=1787349277&sr=8-3": {
       "last_checked": "2026-08-23T09:02:07.882363+00:00",
@@ -3944,7 +3985,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6Eza5x0lgBZVort9Duh0l4_zThTP1qPxTlTbVm-YUetvrCbHrjbkHwBEpHK5EbeXinmbGHSucYoJgIUw7HtX7LVEldYOxP3AWKKEzlj8d3SfT0gDp0gNYxK98xkdZEvSPhl8EsqMWHE7PqH4B-FF4eP5dtQtkEAxTIyAfj9RowC5QHSvIM5Be_D42nUFMuJn1vvn9_iWtD1Zs-ksF5GnyAw9FT3f50I86BPBacnbGU6uIo08JvS-ptXONZF7M-zCm18IKJMmL8YxGXcG1F7_ewXp4.4MBA8HlpDFF-mV8LgdSKqjWo5dG2VvdLHHnh9NMg8P0&dib_tag=se&keywords=pokemon+tcg&qid=1787384809&sr=8-3": {
       "last_checked": "2026-08-23T22:54:45.167052+00:00",
@@ -3954,7 +3995,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRhMhPOoRIF3mM5QvPNcefRDOawr3bhRx33MwtJaEu9E-TjM5fXYB-5YvyDJ-cMYeUQwa_lXdusq30KVu2Nlo1dEyg9EyDVIqUwVJBFOUSrB8u2_HFj_W1SHJIhhUc1EJwuNMTwuQnoRjGBbBgOEtCbxZCNdfNlBEMgRg5KY75elcc4gXm3G6Jc_2hl3Ho6m-4tP65zr9KJ_dnlrmp8HmGd6xh1b45msADhuyzlG-wsWcDcRaSUeoro1MHW9NIAPCY.2TB66g0piJu-R1tGAmePjqMcnreEk7IdYzXBOQ5uNBU&dib_tag=se&keywords=pokemon+tcg&qid=1787471404&sr=8-3": {
       "last_checked": "2026-08-23T07:50:07.378484+00:00",
@@ -3964,7 +4005,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZugTXkdHz07Q82waBfGAkmSL92Xq_9WtMpP56gNpLMLwcPKlIyWBUe-QOZ_jD8Wvto8u2_HFj_W1SHJIhhUc1EJzli8wyfJuUOJv5HzkSBT7RwgcyeFR8fNOwie1LFx-4huezT3SODTnFw2F6QV7m0WhQ_hGATaqD_Ea8lPnG9cbkmB2jpr82qNbPSZ6TLHH_NA8vOnhqNhlLVMk760u-UKg.JDZJ6-n1_Xj2pPmK7SzhtaWLm4St-8J32qdrQ3YcLzw&dib_tag=se&keywords=pokemon+tcg&qid=1787434960&sr=8-3": {
       "last_checked": "2026-08-22T21:42:44.311480+00:00",
@@ -3974,7 +4015,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3_mod_primary_new?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjnIZVdlptm9rVlwUu2Rf6Qya8RRJokkC2teL4jZNLjPTP9huXkEzE-QsLlSSYMIYL8IsbA5suBsVgcUWf1h96pZPWadFv6MRKgfkfx0aJjoZah3CZeDJXdH7vbNX6j19LPpx6o1m1v_UPhxbEm2p36VLXLOx1RjYTBi3OJN4Es8gn1d_BHcQNcvsdJLxc8WI3U.voKbvyvQT-VU7UYDOG6D0RHPCj_7e39VCbv12Tm60X4&dib_tag=se&keywords=pokemon+tcg&qid=1787410442&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3": {
       "last_checked": "2026-08-22T14:54:05.395720+00:00",
@@ -3984,7 +4025,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_3_mod_primary_new?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRjyF-lxZDqNZZSXQZN5vOsLSe5vr1KFEpvMEf4aZcZumXllIEL1zWOqZRRq-1XSmpCBp01FG7W88ABHj5CMiNjtfkhz1LOToO303UFjGZYzBgClTtUt6k1VqTTZ7AoE8R44HpwQeMLA7e0qE6K8K3RXPIKxj1yeWWYT1sVyH4KdZC_1S_KfowLXfNzKgg3Fcd8UNuy7g1xSzRNzARFsn_eo_rDRsAq1goDdRzrPo-QU8ZkPQwkF4OYUdzmdXPArJk.RmxP5VwqGbEix8ZswrCqHoIRm9fSRcevEzax-75o5ks&dib_tag=se&keywords=pokemon+tcg&qid=1787485460&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3": {
       "last_checked": "2026-08-23T11:44:29.452494+00:00",
@@ -3994,7 +4035,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCaDIi6sDUjjkKtXSVeHLs57Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23VyXvZHRy9MPbKtgDUGDbkwSpW3pRFGDQ7cmwSZ45jjaigYMoesbzzsSlmoTNoFMStNBJddwIknbb5dOB4iXgz_J-uMSvYGC27H-Cm3dihLIjUGfdvEmIpwY2lqDSAELrIeRtEjXhqJj-fXUS-m7-OQomCCk0-8H-DFUiGFg0d-ZN1QqPpdGeYMsVPN0y_-a0.dVe4etqIikMeZRI7ux2BnF0ifgzL_vr2xqcGrkbWbgo&dib_tag=se&keywords=pokemon+tcg&qid=1787407194&sr=8-4": {
       "last_checked": "2026-08-22T13:59:58.272296+00:00",
@@ -4004,7 +4045,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCfilvcYEqQ22fTO2X6GvGCfAb55L-qo8mobkbRFKJsyRSwbT5RWv7uy4xKWdmiRNQw9Yzq2O_fxC-yjhuHUpYbRBefMwVK5FTlDxiPtzjJZQ4IsMKVPwRg9eAtOE2LneWl5p4tvDUOGGoDBYptRT-RwKpZdZVHeuRS2FChfnIkozSvIM5Be_D42nUFMuJn1vvsas3tt81GBf6xJKIoWJubhxDubtAOYDC9kqTYHHbF1mQ1G7tNlLVyOtbDzyXQwXL3g-CupYqzBoXYkModaZ90c.oQ9Wr9vvSwf7gGhN6CsTZmpDzRagLOCFqTHjaD4OWm4&dib_tag=se&keywords=pokemon+tcg&qid=1787313483&sr=8-4": {
       "last_checked": "2026-08-24T14:24:09.324082+00:00",
@@ -4014,7 +4055,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSO7u6RLPpwK_sEamRgeWJt7Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcoWtKrhjBCDY_ysxGt95BocNsoqYhFHU78J9De7CQio0CmYsCT2dXcqfj8im7J5uu5LpIOEXWAMCMmyXTxMq55UMzmp6UE6Ed85U--7noDg7_pRQMvWWAt0eVBqA39JqWQrnwjmtDZKOsnknHf6NgVKUy8V9yY1qUxKgQoN3AIsw5KvoKZNR5YOtx5-tvGOQXYGIV5KhWXDIUpZ_RJkrDNo.HNZNWnoy2l6q3qClBZnZHXxHEqHmwsrzJnn5DJ8WGeo&dib_tag=se&keywords=pokemon+tcg&qid=1787507024&sr=8-4": {
       "last_checked": "2026-08-23T17:43:57.977122+00:00",
@@ -4024,7 +4065,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.2ahs4OKbkA6-z2gln55WSXlbxJWFgc7GJdiqLTUByd2pGS8zowcbykGrFAk9dmuwgjQEETfLVRCtAhJr3X2h9k-K2vXJjuX4a4hilWP_8n3vsF6rVHP7RGkeYFsZbtJe2UDWA6174UToAfSsOzsYKZ691BM9f5x7OrY3yfKlXU6j30d6CVNHmwv_C37v0DHfSvIM5Be_D42nUFMuJn1vvrgZAQGq2k_0rNHf4RiQ0MuS1iCFio05j3X92j3tchR0r5G9s0jmhkz0onbpHcMOrnCIdamHw2EwAbLMVWT8QhQ.JRKmQaGSv0TqxjfLmP5CidiToXGqUwTkBErgno4bMXY&dib_tag=se&keywords=pokemon+tcg&qid=1787514436&sr=8-4": {
       "last_checked": "2026-08-23T19:47:30.726841+00:00",
@@ -4034,7 +4075,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzbVNrU7auB9DTaRyS7DsMVFnJ7G2DH_RP2bWKqq-73TD770joB-6kNXmHM3zOd4I_E4F0qfCaXR6TpoFDn9aTBFE7_K75FtwlV2zYAUfTI3Da8RRJokkC2teL4jZNLjPTP9huXkEzE-QsLlSSYMIYL8IsbA5suBsVgcUWf1h96pZuwBJx5KR2GvfqWoIGmk7w792US_eck4Yev50-GHw1AguzDHsXM2Ja98IjBr5jlyRFUNBBv2zMNXkOW4CN9EArIGIV5KhWXDIUpZ_RJkrDNo.UwS3zJ5qgLcUKy0OtELYn9vUlku3TZlQUq0Ix-TazfU&dib_tag=se&keywords=pokemon+tcg&qid=1787378299&sr=8-4": {
       "last_checked": "2026-08-23T21:41:37.820226+00:00",
@@ -4044,7 +4085,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzbVNrU7auB9DTaRyS7DsMVGBXoz7gm5tXVRk2mrXLaQMPQfs_iB3Wm5Cg_3Sc_dE3gRvO6PYcfvCWLM1efQ-8UKMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl8u2_HFj_W1SHJIhhUc1EJzLzA3eE6P9FxCDxYs-eujVA9BD6xxt3-8Px9_w-pyxhV9p3PIJMg8RJ-T5gUi8kwxIDZWd1OrpC4XCb6oZGMurtpN5rcYeepG_xL_BsNcY3YGIV5KhWXDIUpZ_RJkrDNo.qOUGJyoKPW0GWsoJhKL1yQuoEyXoVgdb8kIJwKFU76Y&dib_tag=se&keywords=pokemon+tcg&qid=1787395991&sr=8-4": {
       "last_checked": "2026-08-24T17:51:48.117118+00:00",
@@ -4054,7 +4095,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4_mod_primary_new?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSPORxtySDp9ffyad6HJpNzFnJ7G2DH_RP2bWKqq-73TDLSe5vr1KFEpvMEf4aZcZuljhSd99zNq3Cwg_nFXnEuQVCFehwmGKQF7K96oL3ddNCmYsCT2dXcqfj8im7J5uu5LpIOEXWAMCMmyXTxMq55UiQjKHaEJtGJabXGg6GfS7v6C-o2mA8jrzZU058mp_9Cv-AOwh2Iti0cbzN6hhjNctP65zr9KJ_dnlrmp8HmGduQ4uD0qnkcA-RR6vcgShJt69GCecRfbvdefmxNowDdE.RCB_kfBuiTnq_y4Grzqdj7h90YIUutQmk2RBBbmxdYU&dib_tag=se&keywords=pokemon+tcg&qid=1787475688&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-4": {
       "last_checked": "2026-08-23T09:01:56.590674+00:00",
@@ -4064,7 +4105,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_4_mod_primary_new?dib=eyJ2IjoiMSJ9.sVeyF9HemlXZsA13AzFsgifgtYwFDbPD8XmcGwZyVdNVw9rdGJjm4OMvMMsw8dv7g2o8wdkw1XKMfWlQ1JvsYcTvpY_wXd-sl7V4-oT4ZjoNsoqYhFHU78J9De7CQio002jAa5TyjTkVd9Qx7qbHp1MvEzzsXYoAKJcBbZAYmA31P0fOtmSm2KuK3D4DdPXCmFUfPAa2g8m3SOa2gfkxrxvaI4S0cGyDTQnppfigGwNjU6KQ9m_OO8LxJJlwCybqcUuTB55U4LwHllPHWVIv-969GCecRfbvdefmxNowDdE.YlsR-1kHGlYgScTXhkp3bk3eGga2m2jlCidmZRU0RuU&dib_tag=se&keywords=pokemon+tcg&qid=1787511658&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-4": {
       "last_checked": "2026-08-23T19:01:02.557045+00:00",
@@ -4074,7 +4115,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCchlqtqERQn-M-QZXvA91pcm8BsXD0xA_yfNsqenx0pV8LrC5MEaCgxcYH_sCOKWOBFm2YGSGH6dh8_8VnHyZcOa2v_r-CDxR-sqAHhtCELdJIPZ0JBTxgsbKEk9xkL0iLl8RJisP8n-PBH7lSmAjZe_H2TbkiRrgtbuLszHMP0RWq9Cv6PmyHhaDWbDYoQCHC2CWoDVKIFWMWZ_Rc2Hyuq4iakGaO9nx95jvR1alAtpUHxDH6-dLvApkwof8zaugN_KbMNM4t5bIQAr_C4n-JA.eGEnaZYd-iyG6xdFuXKtMuQbNNxgOky05MMAI_e8boQ&dib_tag=se&keywords=pokemon+tcg&qid=1787263249&sr=8-5": {
       "last_checked": "2026-08-22T23:40:57.935858+00:00",
@@ -4084,7 +4125,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCchlqtqERQn-M-QZXvA91pcm8BsXD0xA_yfNsqenx0pV8LrC5MEaCgxcYH_sCOKWONHRBnklktjla0s4GC_RWhiw4ekXkzfShTV4rBst5XqGw5gKvo9vcKoYkAH_SDJsle_Zeao5WEUFoJ-ghTu83hVk666N4quYYsEY_tBAO39iFmTLQK57rmHhVSpcGKb6fkA0LKwVlLWQvNfQ_RI6wW0RcTH_7bzRGsQ2_zED3dgZV6XVTWststzuf9qE3kVIxt69GCecRfbvdefmxNowDdE.lEe3rfRwK1n2j4OgEaAnurSLrpl6gFRB3ij3LPnE5O4&dib_tag=se&keywords=pokemon+tcg&qid=1787270172&sr=8-5": {
       "last_checked": "2026-08-23T15:50:45.427856+00:00",
@@ -4094,7 +4135,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzWkX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMmBrfpmEPM9RSmdJPFggejFFXAcGpSjWJR08ZIl5W4cNQHPgSZVY2w6mUQevCT0wetXyjzL3knI2oUBClWh8Ktu_Zeao5WEUFoJ-ghTu83hVjaUV7NbrInDUipGKl3nvKuwBJx5KR2GvfqWoIGmk7w83vfA9DmloYzUk8W4T7P7AgAsUpEcqciNAAyD1S_tlwpoJcYQTQaAVdSb5IccPojt_KbMNM4t5bIQAr_C4n-JA.hsdO5Wb4hR1kded5C31Gb_PBca_GR92DfBriaFKRPmo&dib_tag=se&keywords=pokemon+tcg&qid=1787374638&sr=8-5": {
       "last_checked": "2026-08-23T19:01:25.886922+00:00",
@@ -4104,7 +4145,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.DjUGPxwUAfnqeYKD1G6EzWkX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl3Uyt2C3flsM5k16QW74jZzrLqDpshH4VuTE06XK3qvOY5wIYK5wx4cbwnN061V-0pxt2V3pkTMyvKoNFMXVBPgQ0KyHpeBSVKoXSp8KluVA5aVwHd6RyVYmxMBvNbIVZR-S9k7UPkTm1w-Y91gjO0s.BdyPPqEeuIWOTKjRvdjNdb7UTCjAVh2B-k8NDMv5pRw&dib_tag=se&keywords=pokemon+tcg&qid=1787327637&sr=8-5": {
       "last_checked": "2026-08-22T14:54:30.240223+00:00",
@@ -4114,7 +4155,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5Rs4QGsq6uLm6_TDKm0WYtXOIQwa_lXdusq30KVu2Nlo1d5JPEjsO_H4WI34X5ebs_GxYymWeBtf_mfhNkoERCJNNDM6TQfkTIPRsWW5EGYdLaWav8Zbquyf99-b2DNHI77AeeeX6FXCuM6611X-L--IHRU2qfTePZE1BHV_LJNZ60BzTD-O_3qsAuKtbxt6nJgg8vOnhqNhlLVMk760u-UKg.WQIF84cFGktzpelk7eVTmvg1qWviGHX7W2kqKIuUYVc&dib_tag=se&keywords=pokemon+tcg&qid=1787482456&sr=8-5": {
       "last_checked": "2026-08-23T10:54:28.825178+00:00",
@@ -4124,7 +4165,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU2kX6Z4jzv2MRMUVHwE30SnQzuRoE9GMemyZPm5muQYMQLsvg031f0F-lDWAir5RswRvO6PYcfvCWLM1efQ-8UL92Xq_9WtMpP56gNpLMLwcffF5RAUptt43rZAcM3pottnE5oM7bNp_nMOC7QminbUVgMtZcBAjMuqUZUCHjqOaH6LRtqbdpi4x7YnSKibREMETrVrSVOdzBg-rkUN9Dj3gM0GEMkrJVITbnjhJAxuXA6XNR-n1lujuoE6fMFmUgJK_NfEHymt3qHIlwi6EpFo.8ftp5IXHJC1NLoCXOh8i34fKEJCiNIKYuttxjz6Jgo8&dib_tag=se&keywords=pokemon+tcg&qid=1787461511&sr=8-5": {
       "last_checked": "2026-08-23T05:05:26.431886+00:00",
@@ -4134,7 +4175,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU4p6gFP6Z3iCS6X6jFVbj-jQzuRoE9GMemyZPm5muQYMx8NLXw03TavYmMBeUshhdrP006_Fg4cWfhdMVDKKZ8OMyZzxRH3rXul01o2RaLWCgDp0gNYxK98xkdZEvSPhl-lmC0756Qw1RYmhSAj_fKFDM6TQfkTIPRsWW5EGYdLa19GYPfVaHrvnNdc6yl4BUms4QXoHF8SfNC6ktHrUyVE4MQqhOxFPCnpJDgWxMu442jHYWZS6uxjCaP6jld3u-5K_NfEHymt3qHIlwi6EpFo.LnDxR0BOv8iuIWm19bzWj0IfgwZGEPwDEM2mlEWiQ10&dib_tag=se&keywords=pokemon+tcg&qid=1787518242&sr=8-5": {
       "last_checked": "2026-08-23T20:50:55.014406+00:00",
@@ -4144,7 +4185,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.sVeyF9HemlXZsA13AzFsgifgtYwFDbPD8XmcGwZyVdNyaVMfRc79rff6IzdqVxwSSnu7FwqiIy82wtVNjMXckidexzuEAYt67_-nFNu9nOQ4QTv6t80V5Dr5rLZ764k7EAdFMC9X9FaNqyei52LBjC4E-VCwmeMWCyAHm6fCvwDZr26u2eOfuZ1WgxjIo4mZVyayclk0ZM6yRcQzbnycsSb-TP9JP20z0juXpGncj-yYldE-pzyst2nLl3vapZ68v-ZiAoxOK4KaGtKm-VPo0oGIV5KhWXDIUpZ_RJkrDNo.IU1lkHa-gozb8S6mjq21q5_gYRqlocEFsAmL3Q83W9Q&dib_tag=se&keywords=pokemon+tcg&qid=1787566961&sr=8-5": {
       "last_checked": "2026-08-24T10:22:58.334901+00:00",
@@ -4154,7 +4195,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_6?dib=eyJ2IjoiMSJ9.2ahs4OKbkA6-z2gln55WSXlbxJWFgc7GJdiqLTUByd1iD6IoRYrqHvSzkOP-jdgDkxibCORDN8VXh0XqFF6tWq3YjXpvcbAOkXvZvQDeIxX3uiafvahepRsNar6GOVxE_vGbJJDPsnbsYCZUm609my4E-VCwmeMWCyAHm6fCvwDZr26u2eOfuZ1WgxjIo4mZFmTLQK57rmHhVSpcGKb6flAHA63bFrEXtS3P9f9i9viLT3jUNuYJ9aTSCS5YDOvfectrJvxAKUc5X9frZN7TaJN1QqPpdGeYMsVPN0y_-a0.S9Q9_7gt-K1iv4qKRgtOXyXVuYzlnZSRTuISDjRGZ-Y&dib_tag=se&keywords=pokemon+tcg&qid=1787593902&sr=8-6": {
       "last_checked": "2026-08-24T17:51:46.276514+00:00",
@@ -4164,7 +4205,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_6?dib=eyJ2IjoiMSJ9.EyF1lJv0oxFgjE_C5TVu68g9_D97mK_Y6G_NHDmRDC0JY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJAVyhERamWdJb6AlqnYBGPG_CW9jIvALioSlWKKporKScJ4RuoUZQ8K-mfH7LSGtOYuiApSRhwVfEmA1gca0jvuDjOE90-sqd87M220kL9EwmFUfPAa2g8m3SOa2gfkxr9VLwhE97pml6opLQhHJd7HIGAqCjaqlTaa2Um3kEpCBSUFfKqKLvpVOhMv4WYFjOoKJMmL8YxGXcG1F7_ewXp4.tdfxOeFxzq3aNWytWsBqcmUKHgPE0YG5IT8BYWqvl10&dib_tag=se&keywords=pokemon+tcg&qid=1787522496&sr=8-6": {
       "last_checked": "2026-08-23T22:01:42.025605+00:00",
@@ -4174,7 +4215,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_6?dib=eyJ2IjoiMSJ9.UTmbvWsHu01ZV-WzmoLzkGzV8rELSN0qlgeekOMMKmsJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt86shuG7W_-jWmOsfaVC6ig0Z4Yw-PAu_NutTf-ELu70wVImor9uLyi-XZa8Y4x9p219GYPfVaHrvnNdc6yl4BUsUy-hpiyyjx8riNSSElya87qyjo-J7W7kPvSYTsSN6JijgfHoBz0XJo5uodlXFQ-Y6YsIfstD-KtsTu0uyL9Ec.mFjNNsYdRGKjr_BxdEwvYb6wHu4wD43KDpOi7PnGb3Y&dib_tag=se&keywords=pokemon+tcg&qid=1787542334&sr=8-6": {
       "last_checked": "2026-08-24T03:32:19.877598+00:00",
@@ -4184,7 +4225,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_6_mod_primary_new?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PkJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt8w5gKvo9vcKoYkAH_SDJslVMvEzzsXYoAKJcBbZAYmA0EpmYU1d-_49dInMHQFUQxYYTrmSwiIIDDkoBDK_NsYWs4QXoHF8SfNC6ktHrUyVGP1_j1gMfUbSzRfFADffhHB1Lz-SvzYsCtcQtpMrRT7N_KbMNM4t5bIQAr_C4n-JA.SI7ts3pq394LQC47h_BkjME-tuGG0GR6Jsh32-NCtXA&dib_tag=se&keywords=pokemon+tcg&qid=1787525654&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-6": {
       "last_checked": "2026-08-23T22:54:28.465586+00:00",
@@ -4194,7 +4235,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": true,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_6_mod_primary_new?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PkJY9sTY3Z_ooE9KFfFVAp7Nqd_YmsjVoOGo57ViYGGJK3YjXpvcbAOkXvZvQDeIxXLvnvCSk1siMThp0PNSVt8w5gKvo9vcKoYkAH_SDJslVMvEzzsXYoAKJcBbZAYmA31P0fOtmSm2KuK3D4DdPXC19GYPfVaHrvnNdc6yl4BUp1D6bfLm9VGLedT5GxC7Uhw9zTju_ZTlXRO3ZjdxASZrrK3T08PYeZ8Ny0TEMnngIGIV5KhWXDIUpZ_RJkrDNo.cJex-338vLgXum8b8OyBgS5WFuS3M4lBk3DJg5hifZM&dib_tag=se&keywords=pokemon+tcg&qid=1787521289&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-6": {
       "last_checked": "2026-08-23T21:41:34.627971+00:00",
@@ -4204,7 +4245,7 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
     },
     "https://www.amazon.com/Pokemon-TCG-Violet-Prismatic-Evolutions-Super-Premium/dp/B0DYR8D7YC/ref=sr_1_7_mod_primary_new?dib=eyJ2IjoiMSJ9.1mjT6UNbyum4pfv7FHQdSKRbB19vbm7szfixUF4W9PnVKj4SQJHjUv46UKammiz9GOu7kteyU3_1pmoPJh_kCrnriqJo0XSt3m4g0VX8vTYb79gZ6MDo23wpQneIYv0MXKEFgPLlN4U2P61O71-Nk4uiApSRhwVfEmA1gca0jvtBnIxD3aFOlgeKRGkuGCZ7cON4vYEtS-qDrA8rdUmDjo3Ra6CswWq17ncLn5MASWQTlF7MG2WfCBSDT5m4e-h1WOSfYxHEzrWPiog20qMbm4GIV5KhWXDIUpZ_RJkrDNo.vZXwUE0O4W2GKMoLpMbNtgxOYrdz__FkvnphmVGtHkE&dib_tag=se&keywords=pokemon+tcg&qid=1787528608&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7": {
       "last_checked": "2026-08-23T23:43:33.781000+00:00",
@@ -4214,7 +4255,157 @@
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
-      "title": "Pokemon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection"
+      "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection"
+    },
+    "https://www.amazon.com/dp/B001DIJ48C": {
+      "last_checked": "2026-08-25T01:01:19.217659+00:00",
+      "price": "$25.84",
+      "seller": "tcg & more tcg & more sold by tcg & more",
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "(19 new offers)"
+    },
+    "https://www.amazon.com/dp/B0DN98RVZM": {
+      "last_checked": "2026-08-25T01:01:26.721156+00:00",
+      "price": "$109.99",
+      "seller": "the game capital the game capital sold by the game capital",
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "(34 new offers)"
+    },
+    "https://www.amazon.com/dp/B0DYR8D7YC": {
+      "last_checked": "2026-08-25T01:01:11.305686+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "Pokemon TCG: Scarlet & VioletPrismatic Evolutions Super-Premium Collection"
+    },
+    "https://www.amazon.com/dp/B0F2BCG1Y5": {
+      "last_checked": "2026-08-25T01:01:29.187463+00:00",
+      "price": "$75.50",
+      "seller": null,
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "$75.50 $ 75 . 50 Typical: $89.95 Typical: $89.95 $89.95"
+    },
+    "https://www.amazon.com/dp/B0F2BDXW4J": {
+      "last_checked": "2026-08-25T01:01:10.178767+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "$121.99 $ 121 . 99 Typical: $149.00 Typical: $149.00 $149.00"
+    },
+    "https://www.amazon.com/dp/B0FQP3YQ47": {
+      "last_checked": "2026-08-25T01:01:16.196024+00:00",
+      "price": "$29.95",
+      "seller": null,
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "$29.95 $ 29 . 95"
+    },
+    "https://www.amazon.com/dp/B0GG11K25W": {
+      "last_checked": "2026-08-25T01:01:24.293966+00:00",
+      "price": "$49.99",
+      "seller": "j & m collectibles j & m collectibles sold by j & m collectibles retur",
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "(48 new offers)"
+    },
+    "https://www.amazon.com/dp/B0GR6N18F6": {
+      "last_checked": "2026-08-25T01:01:32.448762+00:00",
+      "price": "$84.99",
+      "seller": "megacards",
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "(81 new offers)"
+    },
+    "https://www.amazon.com/dp/B0GR6Q72ND": {
+      "last_checked": "2026-08-25T01:01:11.598804+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(74 new offers)"
+    },
+    "https://www.amazon.com/dp/B0GW2DK37Q": {
+      "last_checked": "2026-08-25T01:01:11.784532+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(72+ used & new offers)"
+    },
+    "https://www.amazon.com/dp/B0GXJ8CSTY": {
+      "last_checked": "2026-08-25T01:01:21.776640+00:00",
+      "price": "$63.03",
+      "seller": "tcgmonster tcgmonster sold by tcgmonster",
+      "status": "out_of_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "(61 new offers)"
+    },
+    "https://www.amazon.com/dp/B0GYTRYV7P": {
+      "last_checked": "2026-08-25T01:01:09.927626+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(64+ used & new offers)"
+    },
+    "https://www.amazon.com/dp/B0GYVHLP4L": {
+      "last_checked": "2026-08-25T01:01:09.649509+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(70 new offers)"
+    },
+    "https://www.amazon.com/dp/B0H2JVZYZZ": {
+      "last_checked": "2026-08-25T01:01:13.966271+00:00",
+      "price": "$38.87",
+      "seller": "nextgen supply house nextgen supply house sold by nextgen supply house",
+      "status": "in_stock",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": true,
+      "title": "$42.00 $ 42 . 00"
+    },
+    "https://www.amazon.com/dp/B0H78BB9TY": {
+      "last_checked": "2026-08-25T01:01:11.029982+00:00",
+      "price": null,
+      "seller": null,
+      "status": "unknown",
+      "store": "Amazon",
+      "store_key": "amazon",
+      "third_party": false,
+      "title": "(2 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B001DIJ48C/ref=sr_1_7_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.T5IuNHyrk9elnpydBn-LU65x0lgBZVort9Duh0l4_zRhMhPOoRIF3mM5QvPNcefRDOawr3bhRx33MwtJaEu9E-TjM5fXYB-5YvyDJ-cMYeUQwa_lXdusq30KVu2Nlo1dEyg9EyDVIqUwVJBFOUSrB8u2_HFj_W1SHJIhhUc1EJwuNMTwuQnoRjGBbBgOEtCbxZCNdfNlBEMgRg5KY75elcc4gXm3G6Jc_2hl3Ho6m-4tP65zr9KJ_dnlrmp8HmGd6xh1b45msADhuyzlG-wsWcDcRaSUeoro1MHW9NIAPCY.2TB66g0piJu-R1tGAmePjqMcnreEk7IdYzXBOQ5uNBU&qid=1787471404&sr=8-7": {
       "last_checked": "2026-08-23T07:50:20.448121+00:00",
@@ -5177,10 +5368,10 @@
       "title": "(74 new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0GR6Q72ND/ref=sr_1_6_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.NbdCdfK4MO3ndOXgwMrj7KTzRSNTb-750erhW11M9PZ1Ehq6FwsmV-Myw0nPTEnRFFgD-rtMXljL3WM-1vJfci1FOeOs6t1O0TR9Jhw1VhqylRGiYnTem-BjKguDHCIKtkMLhnyVrIADHCDsIdfDtRci-eTW0XMcgFM0KZ-cqmwxhAxb9jbdkF5IdZg-AwhCzOuGwqoIpFEDmJfNZw5ddEKqZDjgLMRtGML0l8DYr-3Vof-qZYLukg4GWpqcIoo2_kA3LoyiopH0atfbnffdZh-S9k7UPkTm1w-Y91gjO0s.eZ3t6eXwASVykdPwxpVIoj3rungAwxu-APce7bZMJd8&qid=1787283088&sr=8-6": {
-      "last_checked": "2026-08-22T13:21:34.708379+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:34.599140+00:00",
+      "price": "$43.80",
       "seller": null,
-      "status": "unknown",
+      "status": "preorder",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -5427,10 +5618,10 @@
       "title": "(63+ used & new offers)"
     },
     "https://www.amazon.com/gp/offer-listing/B0GYVHLP4L/ref=sr_1_1_olp?keywords=pokemon+tcg&dib_tag=se&dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCaDIi6sDUjjkKtXSVeHLs57Ab55L-qo8mobkbRFKJsyRFFgD-rtMXljL3WM-1vJfcq4jNvo3iofMhz9zhT3NV23VyXvZHRy9MPbKtgDUGDbkwSpW3pRFGDQ7cmwSZ45jjaigYMoesbzzsSlmoTNoFMStNBJddwIknbb5dOB4iXgz_J-uMSvYGC27H-Cm3dihLIjUGfdvEmIpwY2lqDSAELrIeRtEjXhqJj-fXUS-m7-OQomCCk0-8H-DFUiGFg0d-ZN1QqPpdGeYMsVPN0y_-a0.dVe4etqIikMeZRI7ux2BnF0ifgzL_vr2xqcGrkbWbgo&qid=1787407194&sr=8-1": {
-      "last_checked": "2026-08-22T13:59:57.188283+00:00",
-      "price": null,
+      "last_checked": "2026-08-25T01:01:43.208748+00:00",
+      "price": "$73.88",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -5937,7 +6128,7 @@
       "title": "(9 new offers)"
     },
     "https://www.target.com/s?searchTerm=pokemon+booster+bundle": {
-      "last_checked": "2026-08-24T23:53:55.017204+00:00",
+      "last_checked": "2026-08-25T01:01:04.134400+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -5947,7 +6138,7 @@
       "title": "skip to footer"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/arcane-tinmen/5967908_9807313_4252400/YnJhbmQ6QXJjYW5lIFRpbm1lbgieie": {
-      "last_checked": "2026-08-24T17:51:38.555209+00:00",
+      "last_checked": "2026-08-25T01:00:59.305879+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -5957,7 +6148,7 @@
       "title": "Arcane Tinmen"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/platinum-protectors/5967908_9807313_4252400/YnJhbmQ6UGxhdGludW0gUHJvdGVjdG9ycwieie": {
-      "last_checked": "2026-08-24T17:51:38.220635+00:00",
+      "last_checked": "2026-08-25T01:00:59.045372+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -5987,7 +6178,7 @@
       "title": "Pokemon SS10 Sword and Shield Astral Radiance Booster Pack |"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/pokemon-tcg-chinese/5967908_9807313_4252400/YnJhbmQ6UG9rZW1vbiiBUQ0cgQ2hpbmVzZQieie": {
-      "last_checked": "2026-08-24T19:19:17.753697+00:00",
+      "last_checked": "2026-08-25T01:00:59.698031+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -5997,7 +6188,7 @@
       "title": "Pokemon TCG Chinese"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/presstine-marketing/5967908_9807313_4252400/YnJhbmQ6UHJlc3N0aW5lIE1hcmtldGluZwieie": {
-      "last_checked": "2026-08-24T19:19:18.199933+00:00",
+      "last_checked": "2026-08-25T01:01:00.441466+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -6007,7 +6198,7 @@
       "title": "Presstine Marketing"
     },
     "https://www.walmart.com/browse/collectibles/pokemon-cards/presstine/5967908_9807313_4252400/YnJhbmQ6UHJlc3N0aW5l": {
-      "last_checked": "2026-08-24T19:19:17.983082+00:00",
+      "last_checked": "2026-08-25T01:01:00.049443+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -6137,7 +6328,7 @@
       "title": "Pokemon TCG 30th Anniversary Booster Bundle Box"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-30th-Celebration-Booster-Bundle/20638470762?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-08-24T19:19:18.440640+00:00",
+      "last_checked": "2026-08-25T01:01:00.794372+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
