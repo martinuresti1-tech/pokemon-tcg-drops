@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_run": "2026-09-19T15:20:58.615753+00:00",
+  "last_run": "2026-09-19T15:31:29.974298+00:00",
   "local_products": {},
   "priority_watchlist": {
     "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&nrtv_cid=00d6nkvwqgtk0&clkid=3f7b1a2fNad3511f18e17c3c82042b587&TCID=AFL-3f7b1a2fNad3511f18e17c3c82042b587-376373": {
@@ -9480,6 +9480,14 @@
       "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Emboar ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002&nrtv_cid=e0r2gy0q7xibn&clkid=b59a7ef3Nb10511f1b3b47134f750927d&TCID=AFL-b59a7ef3Nb10511f1b3b47134f750927d-376373",
+      "source_url": "https://howl.link/ggc1pk3oit7zn",
+      "status": "in_stock"
+    },
+    "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&nrtv_cid=e115o70u0m2g8&clkid=8a91a992Nb43e11f1975991acc1a52b70&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373": {
+      "last_checked": "2026-09-19T15:27:02.939113+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Emboar ex Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/moo/A-1008581387?nrtv_cid=m8z4oh9djl7y0&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002&nrtv_cid=e115o70u0m2g8&clkid=8a91a992Nb43e11f1975991acc1a52b70&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373",
       "source_url": "https://howl.link/ggc1pk3oit7zn",
       "status": "in_stock"
     },
@@ -38819,6 +38827,14 @@
       "source_url": "https://howl.link/bw6mjaw832qzz",
       "status": "in_stock"
     },
+    "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&nrtv_cid=lzqnxsupb928q&clkid=8a91a992Nb43e11f1975991acc1a52b70&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373": {
+      "last_checked": "2026-09-19T15:27:04.449348+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Meganium ex Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002&nrtv_cid=lzqnxsupb928q&clkid=8a91a992Nb43e11f1975991acc1a52b70&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373",
+      "source_url": "https://howl.link/bw6mjaw832qzz",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/moo/A-95163305?nrtv_cid=brjbcenb4b6qv&cpng=PTID3&afsrc=1&lnm=201333&afid=Howl&nrtv_cid=lzweh40q8tn7l&clkid=9d303c8eNb3c111f1a4e32f8bdd9c3395&TCID=AFL-9d303c8eNb3c111f1a4e32f8bdd9c3395-376373": {
       "last_checked": "2026-09-19T00:32:49.942539+00:00",
       "name": "Pok\u00e9mon Trading Card Game: Mega Evolution\u2014Ascended Heroes Mega Meganium ex Box",
@@ -48532,7 +48548,7 @@
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-sv-8-5-prismatic-evolutions-super-premium-collection/-/A-1012055696": {
-      "last_checked": "2026-09-19T15:16:28.825851+00:00",
+      "last_checked": "2026-09-19T15:26:49.475649+00:00",
       "name": "Pok\u00e9mon SV 8.5 Prismatic Evolutions Super Premium Collection",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-sv-8-5-prismatic-evolutions-super-premium-collection/-/A-1012055696",
@@ -48540,7 +48556,7 @@
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-elite-trainer-box/-/A-1010892076": {
-      "last_checked": "2026-09-19T15:16:31.536836+00:00",
+      "last_checked": "2026-09-19T15:26:51.581902+00:00",
       "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Elite Trainer Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-elite-trainer-box/-/A-1010892076",
@@ -48548,7 +48564,7 @@
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-sylveon-ex-box/-/A-1010892068": {
-      "last_checked": "2026-09-19T15:16:33.145842+00:00",
+      "last_checked": "2026-09-19T15:26:52.607270+00:00",
       "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Sylveon ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-sylveon-ex-box/-/A-1010892068",
@@ -48556,7 +48572,7 @@
       "status": "in_stock"
     },
     "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-tech-sticker-collection-lucario-or-alolan-exeggutor-styles-may-vary/-/A-1010892078": {
-      "last_checked": "2026-09-19T15:16:30.024929+00:00",
+      "last_checked": "2026-09-19T15:26:50.473180+00:00",
       "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Tech Sticker Collection (Lucario or Alolan Exeggutor)- Styles May Vary",
       "price": null,
       "resolved_url": "https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-tech-sticker-collection-lucario-or-alolan-exeggutor-styles-may-vary/-/A-1010892078",
@@ -62720,6 +62736,14 @@
       "name": "Pok\u00e9mon Tading Card Game: 30th Celebration Greninja ex Box",
       "price": null,
       "resolved_url": "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=lbvlyc0r5kjlm&clkid=11ce3c32Na43011f19ade5718187b0537&cpng=PTID3&TCID=AFL-11ce3c32Na43011f19ade5718187b0537-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/cbeplu5wxmz6w",
+      "status": "in_stock"
+    },
+    "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=lbwu63vf14p8u&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl": {
+      "last_checked": "2026-09-19T15:26:58.575779+00:00",
+      "name": "Pok\u00e9mon Tading Card Game: 30th Celebration Greninja ex Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892065?nrtv_cid=lbwu63vf14p8u&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
       "source_url": "https://howl.link/cbeplu5wxmz6w",
       "status": "in_stock"
     },
@@ -86427,6 +86451,14 @@
       "source_url": "https://howl.link/qi8oes4322sux",
       "status": "in_stock"
     },
+    "https://www.target.com/p/zephyr/A-1010892069?nrtv_cid=jut85ywsh05og&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl": {
+      "last_checked": "2026-09-19T15:27:01.487369+00:00",
+      "name": "Pokemon Trading Card Game: 30th Celebration Tin (Sylveon or Greninja)- Styles May Vary",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892069?nrtv_cid=jut85ywsh05og&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/qi8oes4322sux",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/zephyr/A-1010892069?nrtv_cid=jv734hilwb7j1&clkid=c31c885eNa33f11f1aaed13c3aaa61a79&cpng=PTID3&TCID=AFL-c31c885eNa33f11f1aaed13c3aaa61a79-376373&afsrc=1&lnm=201333&afid=Howl": {
       "last_checked": "2026-08-29T00:22:55.180260+00:00",
       "name": "Pokemon Trading Card Game: 30th Celebration Tin (Sylveon or Greninja)- Styles May Vary",
@@ -104715,6 +104747,14 @@
       "source_url": "https://howl.link/53go48dzfoe7i",
       "status": "in_stock"
     },
+    "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=blnkai1vzgxu3&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl": {
+      "last_checked": "2026-09-19T15:27:00.014857+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Knock Out Collection",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=blnkai1vzgxu3&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/53go48dzfoe7i",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/zephyr/A-1010892070?nrtv_cid=bmgtwi1pmgbhk&clkid=bb42222dNa33a11f1bfebd366fd4e1727&cpng=PTID3&TCID=AFL-bb42222dNa33a11f1bfebd366fd4e1727-376373&afsrc=1&lnm=201333&afid=Howl": {
       "last_checked": "2026-08-28T23:46:54.178506+00:00",
       "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Knock Out Collection",
@@ -122363,6 +122403,14 @@
       "source_url": "https://howl.link/6zz6jbrsf2lxj",
       "status": "in_stock"
     },
+    "https://www.target.com/p/zephyr/A-1010892071?nrtv_cid=3o5ukxl3czvvc&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl": {
+      "last_checked": "2026-09-19T15:26:55.263545+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Battle Deck\u2014Umbreon ex",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892071?nrtv_cid=3o5ukxl3czvvc&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/6zz6jbrsf2lxj",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/zephyr/A-1010892071?nrtv_cid=3o8lte4gsszi7&clkid=96b67a54Nacc211f1b4d9bd15324afaf1&cpng=PTID3&TCID=AFL-96b67a54Nacc211f1b4d9bd15324afaf1-376373&afsrc=1&lnm=201333&afid=Howl": {
       "last_checked": "2026-09-10T02:51:59.395949+00:00",
       "name": "30th Celebration Battle Deck",
@@ -135160,6 +135208,14 @@
       "name": "30th Celebration Binder Collection",
       "price": null,
       "resolved_url": "https://www.target.com/p/zephyr/A-1010892074?nrtv_cid=ce1bw9crtahem&clkid=716f6722Nad9311f18347891d7efb6858&cpng=PTID3&TCID=AFL-716f6722Nad9311f18347891d7efb6858-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/afhbvkd4js8cf",
+      "status": "unknown"
+    },
+    "https://www.target.com/p/zephyr/A-1010892074?nrtv_cid=cg4e3pbjyyuyp&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl": {
+      "last_checked": "2026-09-19T15:26:54.078063+00:00",
+      "name": "30th Celebration Binder Collection",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1010892074?nrtv_cid=cg4e3pbjyyuyp&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
       "source_url": "https://howl.link/afhbvkd4js8cf",
       "status": "unknown"
     },
@@ -149891,6 +149947,14 @@
       "source_url": "https://howl.link/vhesqt7wh1d7e",
       "status": "in_stock"
     },
+    "https://www.target.com/p/zephyr/A-1011407490?nrtv_cid=ta4ohyr4bym9p&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl": {
+      "last_checked": "2026-09-19T15:26:56.783118+00:00",
+      "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Booster Bundle Box",
+      "price": null,
+      "resolved_url": "https://www.target.com/p/zephyr/A-1011407490?nrtv_cid=ta4ohyr4bym9p&clkid=8a91a992Nb43e11f1975991acc1a52b70&cpng=PTID3&TCID=AFL-8a91a992Nb43e11f1975991acc1a52b70-376373&afsrc=1&lnm=201333&afid=Howl&ref=tgt_adv_xasd0002",
+      "source_url": "https://howl.link/vhesqt7wh1d7e",
+      "status": "in_stock"
+    },
     "https://www.target.com/p/zephyr/A-1011407490?nrtv_cid=tc6d042bg09vp&clkid=c1ae780cNb2b411f19dfc4f53f095fb13&cpng=PTID3&TCID=AFL-c1ae780cNb2b411f19dfc4f53f095fb13-376373&afsrc=1&lnm=201333&afid=Howl": {
       "last_checked": "2026-09-17T16:28:08.472354+00:00",
       "name": "Pok\u00e9mon Trading Card Game: 30th Celebration Booster Bundle Box",
@@ -151790,8 +151854,8 @@
   },
   "products": {
     "https://www.academy.com/p/pok-mon-lumiose-city-mini-tin": {
-      "last_checked": "2026-09-19T14:33:29.470218+00:00",
-      "price": null,
+      "last_checked": "2026-09-19T15:29:55.941174+00:00",
+      "price": "$12.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -151830,7 +151894,7 @@
       "title": "Pok\u00e9mon Mega Evolution 5 Pitch Black Elite Trainer Box"
     },
     "https://www.academy.com/p/pok-mon-mega-evolutions-2--phantasmal-flames-booster-bundle": {
-      "last_checked": "2026-09-19T14:33:28.096999+00:00",
+      "last_checked": "2026-09-19T15:29:54.084447+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
@@ -152030,7 +152094,7 @@
       "title": "Pok\u00e9mon Trading Card Game Scarlet & Violet 9 \u2013 Journey Together 3 Booster Blister"
     },
     "https://www.academy.com/p/pok-mon-trading-card-game-scarlet-violet-9---journey-together-booster-bundle": {
-      "last_checked": "2026-09-19T14:33:29.143201+00:00",
+      "last_checked": "2026-09-19T15:29:55.098638+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
@@ -152060,7 +152124,7 @@
       "title": "Pokemon Mega Evolutions 2.5 Ascended Heroes Booster Bundle"
     },
     "https://www.academy.com/p/pokemon-mega-evolutions-4--chaos-rising-booster-bundle": {
-      "last_checked": "2026-09-19T14:33:26.793082+00:00",
+      "last_checked": "2026-09-19T15:29:52.026347+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
@@ -152070,8 +152134,8 @@
       "title": "Pokemon Mega Evolutions 4: Chaos Rising Booster Bundle"
     },
     "https://www.academy.com/p/pokemon-mega-evolutions-4--chaos-rising-booster-display-pack": {
-      "last_checked": "2026-09-19T14:33:27.161590+00:00",
-      "price": null,
+      "last_checked": "2026-09-19T15:29:53.257909+00:00",
+      "price": "$6.99",
       "seller": null,
       "status": "unknown",
       "store": "Academy Sports + Outdoors",
@@ -152100,7 +152164,7 @@
       "title": "Pokemon Mega Evolutions 4: Chaos Rising Sleeved Booster Pack"
     },
     "https://www.academy.com/p/pokemon-paradox-destinies-tin": {
-      "last_checked": "2026-09-19T14:33:30.370150+00:00",
+      "last_checked": "2026-09-19T15:29:56.727173+00:00",
       "price": "$32.99",
       "seller": null,
       "status": "unknown",
@@ -154970,10 +155034,10 @@
       "title": "$39.00 $ 39 . 00"
     },
     "https://www.amazon.com/Pok%C3%A9mon-TCG-Partner-Illustration-Collection/dp/B0H2JVZYZZ/ref=sr_1_9?dib=eyJ2IjoiMSJ9.-K5kHVwHAkej1TqXVWuuCbhpiTmYz0-fGqSTUXa2HQNx52tTRhBTwYB3z-LSy_a-bHrjbkHwBEpHK5EbeXinmSB3hevDZHxQZ2Whuh0wzjnIZVdlptm9rVlwUu2Rf6Qya8RRJokkC2teL4jZNLjPTP9huXkEzE-QsLlSSYMIYL8IsbA5suBsVgcUWf1h96pZPWadFv6MRKgfkfx0aJjoZah3CZeDJXdH7vbNX6j19LPpx6o1m1v_UPhxbEm2p36VLXLOx1RjYTBi3OJN4Es8gn1d_BHcQNcvsdJLxc8WI3U.voKbvyvQT-VU7UYDOG6D0RHPCj_7e39VCbv12Tm60X4&dib_tag=se&keywords=pokemon+tcg&qid=1787410442&sr=8-9": {
-      "last_checked": "2026-09-18T17:33:52.363103+00:00",
-      "price": "$34.45",
+      "last_checked": "2026-09-19T15:29:59.221104+00:00",
+      "price": null,
       "seller": null,
-      "status": "in_stock",
+      "status": "unknown",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -156040,7 +156104,7 @@
       "title": "(7 new offers)"
     },
     "https://www.amazon.com/dp/B08GFD1Y7P": {
-      "last_checked": "2026-09-18T17:26:24.610581+00:00",
+      "last_checked": "2026-09-19T15:29:58.970528+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -156810,7 +156874,7 @@
       "title": "Pokemon TCG Holiday 2024 Calendar"
     },
     "https://www.amazon.com/dp/B0D6WLV3QH": {
-      "last_checked": "2026-09-18T17:26:24.713840+00:00",
+      "last_checked": "2026-09-19T15:29:59.092035+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -157030,7 +157094,7 @@
       "title": "$53.95 $ 53 . 95 List: $59.99 List: $59.99 $59.99"
     },
     "https://www.amazon.com/dp/B0DSLY7DZZ": {
-      "last_checked": "2026-09-18T17:26:24.760829+00:00",
+      "last_checked": "2026-09-19T15:29:59.160995+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -157200,10 +157264,10 @@
       "title": "(8 new offers)"
     },
     "https://www.amazon.com/dp/B0F6PTRKTH": {
-      "last_checked": "2026-09-18T17:26:24.562104+00:00",
-      "price": null,
+      "last_checked": "2026-09-19T15:29:58.653954+00:00",
+      "price": "$199.99",
       "seller": null,
-      "status": "unknown",
+      "status": "in_stock",
       "store": "Amazon",
       "store_key": "amazon",
       "third_party": false,
@@ -157320,7 +157384,7 @@
       "title": "(19 new offers)"
     },
     "https://www.amazon.com/dp/B0FPDLQ43H": {
-      "last_checked": "2026-09-18T17:26:24.664074+00:00",
+      "last_checked": "2026-09-19T15:29:59.028344+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -160140,7 +160204,7 @@
       "title": "(9 new offers)"
     },
     "https://www.target.com/s?searchTerm=pokemon+booster+bundle": {
-      "last_checked": "2026-09-19T15:19:21.823579+00:00",
+      "last_checked": "2026-09-19T15:29:47.681310+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -160410,7 +160474,7 @@
       "title": "Fantasy North - Shinobi's Mission - Japanese Inked Yokai Series - Ninja - 100 Textured Matte TCG Card Sleeves - Fits Magic MTG Commander Pokemon and Other Card Games - Playing Card Sleeves $14.99"
     },
     "https://www.walmart.com/ip/Fantasy-North-Valorra-Lothuandyr-Dragon-Knight-Teragotha-100-Smooth-Matte-TCG-Card-Sleeves-Fits-Magic-MTG-Commander-Pokemon-Card-Games-Playing-Card-S/7575404429?fulfillmentIntent=Shipping&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Shipping%22%5D%7D%5D&classType=REGULAR": {
-      "last_checked": "2026-09-19T09:25:50.038359+00:00",
+      "last_checked": "2026-09-19T15:29:43.228481+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -160780,7 +160844,7 @@
       "title": "Pokemon Trading Card Games  Mega Evolution 2.5 Ascended Heroes Premium Poster Collcetion - Randomly Selected - Walmart.com"
     },
     "https://www.walmart.com/ip/Pokemon-Cards-Mega-Evolution-Ascended-Heroes-LARRY-S-KOMALA-BLISTER-PACK-2-Packs-Coin-Foil/19646370448?conditionGroupCode=4&fulfillmentIntent=Shipping&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Shipping%22%5D%7D%5D&classType=REGULAR": {
-      "last_checked": "2026-09-19T09:25:50.351046+00:00",
+      "last_checked": "2026-09-19T15:29:44.096800+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -160840,7 +160904,7 @@
       "title": "Pokemon Electivire Battle Feature Figure - 4.5 inch Electivire Battle Figure with Punch Attack Fist"
     },
     "https://www.walmart.com/ip/Pokemon-Lucario-Ex-Tyranitar-Ex-Premium-Collection/17726000089?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-09-19T09:25:50.177607+00:00",
+      "last_checked": "2026-09-19T15:29:43.665390+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -161060,7 +161124,7 @@
       "title": "Pokemon TCG 30th Anniversary Booster Bundle Box"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-30th-Celebration-Battle-Deck-Espeon-ex/20743014372?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-09-19T09:36:13.279649+00:00",
+      "last_checked": "2026-09-19T15:29:44.962336+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -161070,7 +161134,7 @@
       "title": "Pokemon TCG 30th Celebration Battle Deck Espeon ex $44.99"
     },
     "https://www.walmart.com/ip/Pokemon-TCG-30th-Celebration-Battle-Deck-Umbreon-ex/20748207122?conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-09-19T09:36:13.067379+00:00",
+      "last_checked": "2026-09-19T15:29:44.448418+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
@@ -162090,7 +162154,7 @@
       "title": "Top Class Cards - Mega Pack | 2 Factory-Sealed Booster Packs + 1 Guaranteed Mega ex Pokemon $29.99"
     },
     "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-browse-middle~desktop~primary-primary&pos=12&tax=5967908_9807313_4252400&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FTop-Class-Cards-Mega-Pack-2-Factory-Sealed-Booster-Packs-1-Guaranteed-Mega-ex-Pokemon%2F20226855448%3FconditionGroupCode%3D4%26classType%3DREGULAR%26adsRedirect%3Dtrue&adUid=7fb24a2f-bc33-4e22-99f4-26e96f7439eb&mloc=sp-browse-middle&pltfm=desktop&pgId=5967908_9807313_4252400&pt=browse&spQs=z7KWoKZ0r9YY_h4OOXd7irx_wgRJfJy6Upmhb1HH_yhY6AXIFzrQk_arReKodBaseUZ0KVWypkckqxmKouRpJRnop2xB55Pa_LpAmDQ9oR0hHo0J20WTKqyPFcu3mFcMTM2X92fat4WkE6FXVo7LnIfKha8-wplBPfayRt_FHEnPPeyig-_WWOHMcmgNYiphIHDyiJLU5vduAo7bJXdnIoTRb8D-bRq56QBPG5ZN6c4ubLIjcQZKlbdgHkJVEm3HlKnOTo8RTeUda1NVXXwVrw&storeId=2250&specificity=&specificityScore=&couponState=na&bkt=ace1_14449%7Cace2_default%7Cace3_default%7Cbb_1_14513%7Cbb_2_14708%7Cbb_3_14600%7Cbb_5_14545%7Csearch_default&conditionGroupCode=4&classType=REGULAR": {
-      "last_checked": "2026-09-19T09:25:49.820104+00:00",
+      "last_checked": "2026-09-19T15:29:42.988620+00:00",
       "price": null,
       "seller": null,
       "status": "unknown",
